@@ -1,0 +1,716 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\git\Quizzer\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$.class
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$LangPathBindable$$anonfun$bind$1.class
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$LangPathBindable$.class
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders.class
+C:\git\Quizzer\app\controllers\Import.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Import$$anonfun$importWord$1.class
+C:\git\Quizzer\app\controllers\Import.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Import.class
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1$$anonfun$apply$1.class
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1$$anonfun$apply$2.class
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1.class
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz.class
+C:\git\Quizzer\app\controllers\Test.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\Test.class
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\git\Quizzer\target\scala-2.11\classes\ErrorHandler$$anonfun$onNotFound$1.class
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\git\Quizzer\target\scala-2.11\classes\ErrorHandler.class
+C:\git\Quizzer\app\models\Vocabulary.scala -> C:\git\Quizzer\target\scala-2.11\classes\models\Vocabulary$.class
+C:\git\Quizzer\app\models\Vocabulary.scala -> C:\git\Quizzer\target\scala-2.11\classes\models\Vocabulary.class
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\git\Quizzer\target\scala-2.11\classes\services\VocabularyService$$anonfun$findRandomVocabulary$1.class
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\git\Quizzer\target\scala-2.11\classes\services\VocabularyService.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseImport.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseQuizz.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseTest.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseImport.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseQuizz.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseTest.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\classes\controllers\routes$javascript.class
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\classes\controllers\routes.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Import_importWord1_invoker$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Quizz_quizz2_invoker$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Test_testAction0_invoker$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\Routes.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix$.class
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix.class
+binary dependencies:
+36 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\binders\PathBinders.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\app\controllers\Import.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\controllers\Import.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\controllers\Import.scala -> C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar
+C:\git\Quizzer\app\controllers\Import.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\app\controllers\Test.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\controllers\Test.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar
+C:\git\Quizzer\app\ErrorHandler.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\app\models\Vocabulary.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\models\Vocabulary.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\models\Vocabulary.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+16 items
+C:\git\Quizzer\app\controllers\Import.scala -> C:\git\Quizzer\app\models\Vocabulary.scala
+C:\git\Quizzer\app\controllers\Import.scala -> C:\git\Quizzer\app\services\VocabularyService.scala
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\app\models\Vocabulary.scala
+C:\git\Quizzer\app\controllers\Quizz.scala -> C:\git\Quizzer\app\services\VocabularyService.scala
+C:\git\Quizzer\app\services\VocabularyService.scala -> C:\git\Quizzer\app\models\Vocabulary.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\git\Quizzer\app\binders\PathBinders.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\git\Quizzer\app\binders\PathBinders.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\app\binders\PathBinders.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\app\controllers\Import.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\app\controllers\Quizz.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\app\controllers\Test.scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> binders.PathBinders
+C:\git\Quizzer\app\binders\PathBinders.scala -> binders.PathBinders$
+C:\git\Quizzer\app\binders\PathBinders.scala -> binders.PathBinders$LangPathBindable$
+C:\git\Quizzer\app\binders\PathBinders.scala -> binders.PathBinders$LangPathBindable$$anonfun$bind$1
+C:\git\Quizzer\app\controllers\Import.scala -> controllers.Import
+C:\git\Quizzer\app\controllers\Import.scala -> controllers.Import$$anonfun$importWord$1
+C:\git\Quizzer\app\controllers\Quizz.scala -> controllers.Quizz
+C:\git\Quizzer\app\controllers\Quizz.scala -> controllers.Quizz$$anonfun$quizz$1
+C:\git\Quizzer\app\controllers\Quizz.scala -> controllers.Quizz$$anonfun$quizz$1$$anonfun$apply$1
+C:\git\Quizzer\app\controllers\Quizz.scala -> controllers.Quizz$$anonfun$quizz$1$$anonfun$apply$2
+C:\git\Quizzer\app\controllers\Test.scala -> controllers.Test
+C:\git\Quizzer\app\ErrorHandler.scala -> ErrorHandler
+C:\git\Quizzer\app\ErrorHandler.scala -> ErrorHandler$$anonfun$onNotFound$1
+C:\git\Quizzer\app\models\Vocabulary.scala -> models.Vocabulary
+C:\git\Quizzer\app\models\Vocabulary.scala -> models.Vocabulary$
+C:\git\Quizzer\app\services\VocabularyService.scala -> services.VocabularyService
+C:\git\Quizzer\app\services\VocabularyService.scala -> services.VocabularyService$$anonfun$findRandomVocabulary$1
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseImport
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseQuizz
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseTest
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseImport
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseQuizz
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseTest
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes$javascript
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$documentation$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Import_importWord1_invoker$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Quizz_quizz2_invoker$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Test_testAction0_invoker$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+used names:
+401 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> <init>
+C:\git\Quizzer\app\binders\PathBinders.scala -> AnyRef
+C:\git\Quizzer\app\binders\PathBinders.scala -> Either
+C:\git\Quizzer\app\binders\PathBinders.scala -> Lang
+C:\git\Quizzer\app\binders\PathBinders.scala -> LangPathBindable
+C:\git\Quizzer\app\binders\PathBinders.scala -> PathBindable
+C:\git\Quizzer\app\binders\PathBinders.scala -> PathBinders
+C:\git\Quizzer\app\binders\PathBinders.scala -> Predef
+C:\git\Quizzer\app\binders\PathBinders.scala -> String
+C:\git\Quizzer\app\binders\PathBinders.scala -> StringContext
+C:\git\Quizzer\app\binders\PathBinders.scala -> api
+C:\git\Quizzer\app\binders\PathBinders.scala -> binders
+C:\git\Quizzer\app\binders\PathBinders.scala -> code
+C:\git\Quizzer\app\binders\PathBinders.scala -> get
+C:\git\Quizzer\app\binders\PathBinders.scala -> i18n
+C:\git\Quizzer\app\binders\PathBinders.scala -> mvc
+C:\git\Quizzer\app\binders\PathBinders.scala -> package
+C:\git\Quizzer\app\binders\PathBinders.scala -> play
+C:\git\Quizzer\app\binders\PathBinders.scala -> s
+C:\git\Quizzer\app\binders\PathBinders.scala -> scala
+C:\git\Quizzer\app\binders\PathBinders.scala -> toRight
+C:\git\Quizzer\app\binders\PathBinders.scala -> value
+C:\git\Quizzer\app\controllers\Import.scala -> <init>
+C:\git\Quizzer\app\controllers\Import.scala -> Action
+C:\git\Quizzer\app\controllers\Import.scala -> Conflict
+C:\git\Quizzer\app\controllers\Import.scala -> Controller
+C:\git\Quizzer\app\controllers\Import.scala -> Import
+C:\git\Quizzer\app\controllers\Import.scala -> Inject
+C:\git\Quizzer\app\controllers\Import.scala -> Lang
+C:\git\Quizzer\app\controllers\Import.scala -> Ok
+C:\git\Quizzer\app\controllers\Import.scala -> Predef
+C:\git\Quizzer\app\controllers\Import.scala -> String
+C:\git\Quizzer\app\controllers\Import.scala -> Vocabulary
+C:\git\Quizzer\app\controllers\Import.scala -> VocabularyService
+C:\git\Quizzer\app\controllers\Import.scala -> addVocabulary
+C:\git\Quizzer\app\controllers\Import.scala -> added
+C:\git\Quizzer\app\controllers\Import.scala -> api
+C:\git\Quizzer\app\controllers\Import.scala -> apply
+C:\git\Quizzer\app\controllers\Import.scala -> controllers
+C:\git\Quizzer\app\controllers\Import.scala -> i18n
+C:\git\Quizzer\app\controllers\Import.scala -> inject
+C:\git\Quizzer\app\controllers\Import.scala -> javax
+C:\git\Quizzer\app\controllers\Import.scala -> models
+C:\git\Quizzer\app\controllers\Import.scala -> mvc
+C:\git\Quizzer\app\controllers\Import.scala -> play
+C:\git\Quizzer\app\controllers\Import.scala -> scala
+C:\git\Quizzer\app\controllers\Import.scala -> services
+C:\git\Quizzer\app\controllers\Import.scala -> sourceLanguage
+C:\git\Quizzer\app\controllers\Import.scala -> targetLanguage
+C:\git\Quizzer\app\controllers\Import.scala -> translation
+C:\git\Quizzer\app\controllers\Import.scala -> vocabulary
+C:\git\Quizzer\app\controllers\Import.scala -> word
+C:\git\Quizzer\app\controllers\Quizz.scala -> <init>
+C:\git\Quizzer\app\controllers\Quizz.scala -> Action
+C:\git\Quizzer\app\controllers\Quizz.scala -> Codec
+C:\git\Quizzer\app\controllers\Quizz.scala -> Controller
+C:\git\Quizzer\app\controllers\Quizz.scala -> Inject
+C:\git\Quizzer\app\controllers\Quizz.scala -> Lang
+C:\git\Quizzer\app\controllers\Quizz.scala -> NotFound
+C:\git\Quizzer\app\controllers\Quizz.scala -> Ok
+C:\git\Quizzer\app\controllers\Quizz.scala -> Option
+C:\git\Quizzer\app\controllers\Quizz.scala -> Quizz
+C:\git\Quizzer\app\controllers\Quizz.scala -> Vocabulary
+C:\git\Quizzer\app\controllers\Quizz.scala -> VocabularyService
+C:\git\Quizzer\app\controllers\Quizz.scala -> Writeable
+C:\git\Quizzer\app\controllers\Quizz.scala -> api
+C:\git\Quizzer\app\controllers\Quizz.scala -> apply
+C:\git\Quizzer\app\controllers\Quizz.scala -> controllers
+C:\git\Quizzer\app\controllers\Quizz.scala -> findRandomVocabulary
+C:\git\Quizzer\app\controllers\Quizz.scala -> getOrElse
+C:\git\Quizzer\app\controllers\Quizz.scala -> http
+C:\git\Quizzer\app\controllers\Quizz.scala -> i18n
+C:\git\Quizzer\app\controllers\Quizz.scala -> inject
+C:\git\Quizzer\app\controllers\Quizz.scala -> javax
+C:\git\Quizzer\app\controllers\Quizz.scala -> map
+C:\git\Quizzer\app\controllers\Quizz.scala -> models
+C:\git\Quizzer\app\controllers\Quizz.scala -> mvc
+C:\git\Quizzer\app\controllers\Quizz.scala -> play
+C:\git\Quizzer\app\controllers\Quizz.scala -> randomWordOp
+C:\git\Quizzer\app\controllers\Quizz.scala -> scala
+C:\git\Quizzer\app\controllers\Quizz.scala -> services
+C:\git\Quizzer\app\controllers\Quizz.scala -> sourceLanguage
+C:\git\Quizzer\app\controllers\Quizz.scala -> targetLanguage
+C:\git\Quizzer\app\controllers\Quizz.scala -> utf_8
+C:\git\Quizzer\app\controllers\Quizz.scala -> v
+C:\git\Quizzer\app\controllers\Quizz.scala -> vocabulary
+C:\git\Quizzer\app\controllers\Quizz.scala -> wString
+C:\git\Quizzer\app\controllers\Quizz.scala -> word
+C:\git\Quizzer\app\controllers\Test.scala -> <init>
+C:\git\Quizzer\app\controllers\Test.scala -> Controller
+C:\git\Quizzer\app\controllers\Test.scala -> TODO
+C:\git\Quizzer\app\controllers\Test.scala -> Test
+C:\git\Quizzer\app\controllers\Test.scala -> api
+C:\git\Quizzer\app\controllers\Test.scala -> bind
+C:\git\Quizzer\app\controllers\Test.scala -> com
+C:\git\Quizzer\app\controllers\Test.scala -> controllers
+C:\git\Quizzer\app\controllers\Test.scala -> internal
+C:\git\Quizzer\app\controllers\Test.scala -> mvc
+C:\git\Quizzer\app\controllers\Test.scala -> play
+C:\git\Quizzer\app\controllers\Test.scala -> sun
+C:\git\Quizzer\app\controllers\Test.scala -> v2
+C:\git\Quizzer\app\controllers\Test.scala -> xml
+C:\git\Quizzer\app\ErrorHandler.scala -> +
+C:\git\Quizzer\app\ErrorHandler.scala -> <init>
+C:\git\Quizzer\app\ErrorHandler.scala -> Codec
+C:\git\Quizzer\app\ErrorHandler.scala -> Configuration
+C:\git\Quizzer\app\ErrorHandler.scala -> DefaultHttpErrorHandler
+C:\git\Quizzer\app\ErrorHandler.scala -> Environment
+C:\git\Quizzer\app\ErrorHandler.scala -> ErrorHandler
+C:\git\Quizzer\app\ErrorHandler.scala -> Execution
+C:\git\Quizzer\app\ErrorHandler.scala -> Future
+C:\git\Quizzer\app\ErrorHandler.scala -> Implicits
+C:\git\Quizzer\app\ErrorHandler.scala -> NotFound
+C:\git\Quizzer\app\ErrorHandler.scala -> OptionalSourceMapper
+C:\git\Quizzer\app\ErrorHandler.scala -> Predef
+C:\git\Quizzer\app\ErrorHandler.scala -> Provider
+C:\git\Quizzer\app\ErrorHandler.scala -> RequestHeader
+C:\git\Quizzer\app\ErrorHandler.scala -> Result
+C:\git\Quizzer\app\ErrorHandler.scala -> Results
+C:\git\Quizzer\app\ErrorHandler.scala -> Router
+C:\git\Quizzer\app\ErrorHandler.scala -> String
+C:\git\Quizzer\app\ErrorHandler.scala -> Writeable
+C:\git\Quizzer\app\ErrorHandler.scala -> api
+C:\git\Quizzer\app\ErrorHandler.scala -> apply
+C:\git\Quizzer\app\ErrorHandler.scala -> concurrent
+C:\git\Quizzer\app\ErrorHandler.scala -> config
+C:\git\Quizzer\app\ErrorHandler.scala -> defaultContext
+C:\git\Quizzer\app\ErrorHandler.scala -> env
+C:\git\Quizzer\app\ErrorHandler.scala -> http
+C:\git\Quizzer\app\ErrorHandler.scala -> inject
+C:\git\Quizzer\app\ErrorHandler.scala -> javax
+C:\git\Quizzer\app\ErrorHandler.scala -> libs
+C:\git\Quizzer\app\ErrorHandler.scala -> mvc
+C:\git\Quizzer\app\ErrorHandler.scala -> play
+C:\git\Quizzer\app\ErrorHandler.scala -> request
+C:\git\Quizzer\app\ErrorHandler.scala -> router
+C:\git\Quizzer\app\ErrorHandler.scala -> routing
+C:\git\Quizzer\app\ErrorHandler.scala -> scala
+C:\git\Quizzer\app\ErrorHandler.scala -> sourceMapper
+C:\git\Quizzer\app\ErrorHandler.scala -> utf_8
+C:\git\Quizzer\app\ErrorHandler.scala -> wString
+C:\git\Quizzer\app\models\Vocabulary.scala -> &&
+C:\git\Quizzer\app\models\Vocabulary.scala -> <init>
+C:\git\Quizzer\app\models\Vocabulary.scala -> ==
+C:\git\Quizzer\app\models\Vocabulary.scala -> AbstractFunction4
+C:\git\Quizzer\app\models\Vocabulary.scala -> Lang
+C:\git\Quizzer\app\models\Vocabulary.scala -> None
+C:\git\Quizzer\app\models\Vocabulary.scala -> Predef
+C:\git\Quizzer\app\models\Vocabulary.scala -> Product
+C:\git\Quizzer\app\models\Vocabulary.scala -> ScalaRunTime
+C:\git\Quizzer\app\models\Vocabulary.scala -> Serializable
+C:\git\Quizzer\app\models\Vocabulary.scala -> String
+C:\git\Quizzer\app\models\Vocabulary.scala -> Vocabulary
+C:\git\Quizzer\app\models\Vocabulary.scala -> _hashCode
+C:\git\Quizzer\app\models\Vocabulary.scala -> _toString
+C:\git\Quizzer\app\models\Vocabulary.scala -> api
+C:\git\Quizzer\app\models\Vocabulary.scala -> asInstanceOf
+C:\git\Quizzer\app\models\Vocabulary.scala -> eq
+C:\git\Quizzer\app\models\Vocabulary.scala -> i18n
+C:\git\Quizzer\app\models\Vocabulary.scala -> isInstanceOf
+C:\git\Quizzer\app\models\Vocabulary.scala -> models
+C:\git\Quizzer\app\models\Vocabulary.scala -> play
+C:\git\Quizzer\app\models\Vocabulary.scala -> runtime
+C:\git\Quizzer\app\models\Vocabulary.scala -> scala
+C:\git\Quizzer\app\models\Vocabulary.scala -> sourceLanguage
+C:\git\Quizzer\app\models\Vocabulary.scala -> targetLanguage
+C:\git\Quizzer\app\models\Vocabulary.scala -> toString
+C:\git\Quizzer\app\models\Vocabulary.scala -> translation
+C:\git\Quizzer\app\models\Vocabulary.scala -> typedProductIterator
+C:\git\Quizzer\app\models\Vocabulary.scala -> word
+C:\git\Quizzer\app\models\Vocabulary.scala -> ||
+C:\git\Quizzer\app\services\VocabularyService.scala -> &&
+C:\git\Quizzer\app\services\VocabularyService.scala -> ::
+C:\git\Quizzer\app\services\VocabularyService.scala -> <init>
+C:\git\Quizzer\app\services\VocabularyService.scala -> ==
+C:\git\Quizzer\app\services\VocabularyService.scala -> AnyRef
+C:\git\Quizzer\app\services\VocabularyService.scala -> Boolean
+C:\git\Quizzer\app\services\VocabularyService.scala -> Lang
+C:\git\Quizzer\app\services\VocabularyService.scala -> List
+C:\git\Quizzer\app\services\VocabularyService.scala -> Option
+C:\git\Quizzer\app\services\VocabularyService.scala -> Predef
+C:\git\Quizzer\app\services\VocabularyService.scala -> Random
+C:\git\Quizzer\app\services\VocabularyService.scala -> Singleton
+C:\git\Quizzer\app\services\VocabularyService.scala -> String
+C:\git\Quizzer\app\services\VocabularyService.scala -> Vocabulary
+C:\git\Quizzer\app\services\VocabularyService.scala -> VocabularyService
+C:\git\Quizzer\app\services\VocabularyService.scala -> allVocabulary
+C:\git\Quizzer\app\services\VocabularyService.scala -> allVocabulary_=
+C:\git\Quizzer\app\services\VocabularyService.scala -> api
+C:\git\Quizzer\app\services\VocabularyService.scala -> apply
+C:\git\Quizzer\app\services\VocabularyService.scala -> canBuildFrom
+C:\git\Quizzer\app\services\VocabularyService.scala -> contains
+C:\git\Quizzer\app\services\VocabularyService.scala -> filter
+C:\git\Quizzer\app\services\VocabularyService.scala -> headOption
+C:\git\Quizzer\app\services\VocabularyService.scala -> i18n
+C:\git\Quizzer\app\services\VocabularyService.scala -> immutable
+C:\git\Quizzer\app\services\VocabularyService.scala -> inject
+C:\git\Quizzer\app\services\VocabularyService.scala -> javax
+C:\git\Quizzer\app\services\VocabularyService.scala -> models
+C:\git\Quizzer\app\services\VocabularyService.scala -> play
+C:\git\Quizzer\app\services\VocabularyService.scala -> scala
+C:\git\Quizzer\app\services\VocabularyService.scala -> services
+C:\git\Quizzer\app\services\VocabularyService.scala -> shuffle
+C:\git\Quizzer\app\services\VocabularyService.scala -> sourceLanguage
+C:\git\Quizzer\app\services\VocabularyService.scala -> targetLanguage
+C:\git\Quizzer\app\services\VocabularyService.scala -> translation
+C:\git\Quizzer\app\services\VocabularyService.scala -> unary_!
+C:\git\Quizzer\app\services\VocabularyService.scala -> util
+C:\git\Quizzer\app\services\VocabularyService.scala -> v
+C:\git\Quizzer\app\services\VocabularyService.scala -> word
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Call
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> HandlerDef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavascriptLiteral
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Lang
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> LangPathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBinders
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> QueryStringBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseImport
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseQuizz
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseTest
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> bindableString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> binders
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> core
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> dynamicString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> i18n
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> queryString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> +
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <byname>
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <init>
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Asset
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Assets
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Call
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> HandlerDef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> JavascriptLiteral
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Lang
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> LangPathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBinders
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Predef
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> QueryStringBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseImport
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseQuizz
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseTest
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> String
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _prefix
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _root_
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> api
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> bindableString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> binders
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> core
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> dynamicString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> empty
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> endsWith
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> i18n
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> implicitly
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> mvc
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> package
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> play
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> queryString
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> routing
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> scala
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> sourceLang
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> targetLang
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> translation
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> unbind
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> word
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> +
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> ++
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> :+
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> <init>
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> A1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Any
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Asset
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Assets
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> B1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Function1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> GeneratedRouter
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Handler
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvokerFactory
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> HttpErrorHandler
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Import
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Import_0
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Lang
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> LangPathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> List
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Nil
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> None
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> PartialFunction
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> PathBindable
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> PathBinders
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Predef
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Quizz
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Quizz_2
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> RequestHeader
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> ReverseRouteContext
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Route
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Routes
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> RoutesPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Seq
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> String
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Test
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Test_1
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> Tuple3
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> api
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> apply
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> asInstanceOf
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> bindableString
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> binders
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> call
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> canBuildFrom
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> collection
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Import_importWord1_invoker
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Import_importWord1_route
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Quizz_quizz2_invoker
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Quizz_quizz2_route
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Test_testAction0_invoker
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Test_testAction0_route
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> core
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> createInvoker
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> defaultPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> e
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> empty
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> endsWith
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> errorHandler
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> fakeValue
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> foldLeft
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> fromPath
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> get
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> getClass
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> getClassLoader
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> http
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> i18n
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> immutable
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> importWord
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> isEmpty
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> isInstanceOf
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> j
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> mvc
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> package
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> params
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> passThrough
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> play
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> prefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> quizz
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> router
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> routing
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> s
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> scala
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> setPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> sourceLang
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> targetLang
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> testAction
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> translation
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> unapply
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> unary_!
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> unchecked
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> word
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> <init>
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> AnyRef
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Function0
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Predef
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> String
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Unit
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix_=
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> p
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> prefix
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> scala
+product stamps:
+40 items
+C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$.class -> lastModified(1445185800934)
+C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$LangPathBindable$$anonfun$bind$1.class -> lastModified(1445185800942)
+C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders$LangPathBindable$.class -> lastModified(1445185800939)
+C:\git\Quizzer\target\scala-2.11\classes\binders\PathBinders.class -> lastModified(1445185800932)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Import$$anonfun$importWord$1.class -> lastModified(1445185801054)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Import.class -> lastModified(1445185801050)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseImport.class -> lastModified(1445185801125)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseQuizz.class -> lastModified(1445185801129)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\javascript\ReverseTest.class -> lastModified(1445185801131)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1$$anonfun$apply$1.class -> lastModified(1445185801090)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1$$anonfun$apply$2.class -> lastModified(1445185801091)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz$$anonfun$quizz$1.class -> lastModified(1445185801088)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Quizz.class -> lastModified(1445185801085)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseImport.class -> lastModified(1445185801093)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseQuizz.class -> lastModified(1445185801095)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\ReverseTest.class -> lastModified(1445185801096)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\routes$javascript.class -> lastModified(1445185801258)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\routes.class -> lastModified(1445185801259)
+C:\git\Quizzer\target\scala-2.11\classes\controllers\Test.class -> lastModified(1445185801123)
+C:\git\Quizzer\target\scala-2.11\classes\ErrorHandler$$anonfun$onNotFound$1.class -> lastModified(1445185800929)
+C:\git\Quizzer\target\scala-2.11\classes\ErrorHandler.class -> lastModified(1445185800922)
+C:\git\Quizzer\target\scala-2.11\classes\models\Vocabulary$.class -> lastModified(1445185801147)
+C:\git\Quizzer\target\scala-2.11\classes\models\Vocabulary.class -> lastModified(1445185801145)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class -> lastModified(1445185801158)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Import_importWord1_invoker$1.class -> lastModified(1445185801160)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Quizz_quizz2_invoker$1.class -> lastModified(1445185801163)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Test_testAction0_invoker$1.class -> lastModified(1445185801166)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1445185801172)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1445185801171)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1445185801174)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1445185801173)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1445185801177)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1445185801175)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1445185801169)
+C:\git\Quizzer\target\scala-2.11\classes\router\Routes.class -> lastModified(1445185801156)
+C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class -> lastModified(1445185801184)
+C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix$.class -> lastModified(1445185801183)
+C:\git\Quizzer\target\scala-2.11\classes\router\RoutesPrefix.class -> lastModified(1445185801180)
+C:\git\Quizzer\target\scala-2.11\classes\services\VocabularyService$$anonfun$findRandomVocabulary$1.class -> lastModified(1445185801189)
+C:\git\Quizzer\target\scala-2.11\classes\services\VocabularyService.class -> lastModified(1445185801188)
+source stamps:
+12 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> hash(6a831072f15e50993e8dea1041ce39bdb32dc769)
+C:\git\Quizzer\app\controllers\Import.scala -> hash(75838839b5444b3ea8ffb1b76a2a4087e68855cd)
+C:\git\Quizzer\app\controllers\Quizz.scala -> hash(1291c327debbcc5b0398b34f0f81cc8cddb696c9)
+C:\git\Quizzer\app\controllers\Test.scala -> hash(685cbb214c6247632cf8219a9a4cf213cf6c0eb7)
+C:\git\Quizzer\app\ErrorHandler.scala -> hash(1b577e17c3906dd7074bdd286a6a152be040ff3c)
+C:\git\Quizzer\app\models\Vocabulary.scala -> hash(663b853b38e50b395b21c62e231ca122d6a8b424)
+C:\git\Quizzer\app\services\VocabularyService.scala -> hash(951ba96ad9c9ec77d86852be740f330fd7ee03e4)
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(734c8fbb2b58dc3037804cd614e8a2d8d2320e25)
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> hash(5d344d2d7b20e7018ddee9873ddc601e824966f8)
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> hash(b09c167be9f83959b7876f520a461fc168c68c4c)
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> hash(a60c76d348de89af734eaf19b7df75706da9a418)
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> hash(60927f6131c989ec5cac3e868d1ef406c0e085da)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1418056279626)
+C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar -> lastModified(1441587930000)
+C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar -> lastModified(1255476900000)
+C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Ray\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.3.jar -> play.core.routing.GeneratedRouter
+C:\Users\Ray\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar -> javax.inject.Singleton
+C:\Users\Ray\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.Function0
+internal apis:
+12 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBUtsDAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfKAo63QAEExhbmdQYXRoQmluZGFibGV1cQB+AAkAAAAYc3EAfgALOYkmg3QABm5vdGlmeXNxAH4AC2EWMe90AAR3YWl0c3EAfgAL1Gsji3QADSRhc0luc3RhbmNlT2ZzcQB+AAsKJhXndAAGZXF1YWxzc3EAfgALTDfX1HQADGFzSW5zdGFuY2VPZnNxAH4AC9/rMLJ0AAxzeW5jaHJvbml6ZWRzcQB+AAuoWRX5dAAEYmluZHNxAH4AC7qPWl10AA0kaXNJbnN0YW5jZU9mc3EAfgALq1Vjg3QACW5vdGlmeUFsbHNxAH4ACxefVJt0AAxpc0luc3RhbmNlT2ZzcQB+AAvCXrRwdAAQamF2YXNjcmlwdFVuYmluZHNxAH4AC8wl3050AAI9PXNxAH4AC9x6bM90AAVjbG9uZXNxAH4AC4XGyfZ0AAtQYXRoQmluZGVyc3NxAH4AC66znNl0AAh0b1N0cmluZ3NxAH4AC1SwKFF0AAIhPXNxAH4AC7+s6BV0AAhnZXRDbGFzc3NxAH4ACxzbT950AAJuZXNxAH4AC2a6XZp0AAl0cmFuc2Zvcm1zcQB+AAtjxV/5dAAGdW5iaW5kc3EAfgALUHznvHQAAmVxc3EAfgALLAxikXQAAiMjc3EAfgALW1ZcenQACGZpbmFsaXplc3EAfgALc+bGzXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE2JpbmRlcnMuUGF0aEJpbmRlcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHYmluZGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGqDEHLxXlCZPo3qEEHOOb2zLcdp
+C:\git\Quizzer\app\controllers\Import.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDeTYX7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNrtmVXQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC5qICZh0AA1yZXF1ZXN0MmZsYXNoc3EAfgALjH+gqnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARhzcQB+AAu+499odAALY2hlY2tGb3JFb2ZzcQB+AAsVJJekdAAMUmVzZXRDb250ZW50c3EAfgALkkZ8NXQADU5vdEFjY2VwdGFibGVzcQB+AAvt52/zdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAti8AQudAAIc2VuZEZpbGVzcQB+AAsQ5MPcdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALPhal/3QABkxvY2tlZHNxAH4AC8pe/Bp0AAZub3RpZnlzcQB+AAsTnededAAERlJPTXNxAH4AC71oF0N0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALotTzFnQAB0NSRUFURURzcQB+AAtuk+8sdAAHdW5hcHBseXNxAH4AC/RJULB0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALeZZwynQAEnRvbGVyYW50Qm9keVBhcnNlcnNxAH4ACxrvrtx0AAdXQVJOSU5Hc3EAfgALT3i6/3QAD1BheW1lbnRSZXF1aXJlZHNxAH4AC9x9Cz50AAhDT05USU5VRXNxAH4ACz3twsJ0AARib2R5c3EAfgALakER03QABWNodW5rc3EAfgAL9avKDnQADmZvcm0kZGVmYXVsdCQyc3EAfgALYGoLY3QAC1NFVF9DT09LSUUyc3EAfgALw/om83QACEhUVFBfMV8xc3EAfgAL1ZqqQ3QAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAsvqWj1dAANcmF3JGRlZmF1bHQkMXNxAH4AC2MrffN0AAxDT05URU5UX1RZUEVzcQB+AAt9hRHldAAGQklOQVJZc3EAfgALNyB5tHQABHdhaXRzcQB+AAuKJgtKdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4AC9siNHx0AApCYWRHYXRld2F5c3EAfgAL1BvVc3QAEE1ldGhvZE5vdEFsbG93ZWRzcQB+AAu/EstKdAAOVG9vTWFueVJlcXVlc3RzcQB+AAtO7q/mdAATZGVjaHVua1dpdGhUcmFpbGVyc3NxAH4AC736e0R0AApVU0VSX0FHRU5Uc3EAfgALrMhw0HQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDJzcQB+AAujQZjxdAAESE9TVHNxAH4ACyLsSYR0AAtDT05URU5UX01ENXNxAH4AC2ZU3n50AA5jb3B5JGRlZmF1bHQkMnNxAH4AC9FYSb10AAdDcmVhdGVkc3EAfgALYWowZXQADSRhc0luc3RhbmNlT2ZzcQB+AAtY3Zr7dAAFZW1wdHlzcQB+AAs5vdHIdAAQWF9GT1JXQVJERURfUE9SVHNxAH4AC1hvmit0AApKYXZhU2NyaXB0c3EAfgAL9ZDbUnQAC0JBRF9SRVFVRVNUc3EAfgAL6r/vWXQABXVzaW5nc3EAfgALZoXS73QADk5vdEltcGxlbWVudGVkc3EAfgALvpjSnnQADE1BWF9GT1JXQVJEU3NxAH4AC2e2ttF0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALyrLiFnQAA0NTU3NxAH4AC7SxO3J0AAx0b2xlcmFudEpzb25zcQB+AAviQEhtdAAIU2VlT3RoZXJzcQB+AAtazjbzdAAHVFJBSUxFUnNxAH4AC9FWVJx0ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAuDvEHsdAANQVVUSE9SSVpBVElPTnNxAH4ACz+RyEp0AANYTUxzcQB+AAtrNaGDdAAKYW55Q29udGVudHNxAH4AC/3xvoF0AA1DQUNIRV9DT05UUk9Mc3EAfgAL/f7Jo3QAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4AC29lW1V0AA9OT1RfSU1QTEVNRU5URURzcQB+AAtMFulJdAAMcHJvZHVjdEFyaXR5c3EAfgALxXRlS3QABmVxdWFsc3NxAH4AC0bNx4l0ABBQQVlNRU5UX1JFUVVJUkVEc3EAfgALqgv02HQABGpzb25zcQB+AAuifETEdAAIQWNjZXB0ZWRzcQB+AAvtO5r5dAALUkVUUllfQUZURVJzcQB+AAu/t964dAASUmVkaXJlY3QkZGVmYXVsdCQyc3EAfgAL/+P/AnQADnVybEZvcm1FbmNvZGVkc3EAfgAL9EMbpHQABEpTT05zcQB+AAvpNU6ldAAIUmVkaXJlY3RzcQB+AAso+i3gdAATUFJFQ09ORElUSU9OX0ZBSUxFRHNxAH4ACxtOR9F0AA5QYXJ0aWFsQ29udGVudHNxAH4AC4ZUfGx0ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4AC/SL8tN0AAhDT05GTElDVHNxAH4ACwH1/KB0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAuvdbYLdAAOQUNDRVBUX0NIQVJTRVRzcQB+AAsCXyMAdAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAswn5zBdAADVklBc3EAfgALl+lsUXQADGFzSW5zdGFuY2VPZnNxAH4AC68p26p0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAs8kc5MdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4AC2jTBQx0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4ACy//I2t0AAJURXNxAH4AC7FARON0AA5HYXRld2F5VGltZW91dHNxAH4ACyfwgnd0ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgALjbpetXQAD1BBUlRJQUxfQ09OVEVOVHNxAH4AC+75CIt0ABNyZW1vdmluZ0Zyb21TZXNzaW9uc3EAfgAL1fxSnXQAFElOU1VGRklDSUVOVF9TVE9SQUdFc3EAfgALFGg5P3QAEW11bHRpcGFydEZvcm1EYXRhc3EAfgALt1PqznQADEVWRU5UX1NUUkVBTXNxAH4AC/BF+fF0AAxzeW5jaHJvbml6ZWRzcQB+AAt3/S5gdAAQRmFpbGVkRGVwZW5kZW5jeXNxAH4AC+s269R0AARFVEFHc3EAfgALKEEk23QAD0xFTkdUSF9SRVFVSVJFRHNxAH4ACx7c6pZ0AA53aXRoTmV3U2Vzc2lvbnNxAH4AC1Wx9Jt0AApKQVZBU0NSSVBUc3EAfgALd+Sw5XQADkVudGl0eVRvb0xhcmdlc3EAfgALgnz71XQADFVOQVVUSE9SSVpFRHNxAH4AC+dxhlx0ABJzZW5kUGF0aCRkZWZhdWx0JDJzcQB+AAv9gj4VdAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4AC5w3gqR0AA0kaXNJbnN0YW5jZU9mc3EAfgALepAbBHQAB1JFRkVSRVJzcQB+AAsVJLqgdAAYUkVRVUVTVF9FTlRJVFlfVE9PX0xBUkdFc3EAfgALE1EPWHQABk9SSUdJTnNxAH4AC76uYpN0AAt3aXRoQ29va2llc3NxAH4AC7SLYgt0AA9BQ0NFUFRfTEFOR1VBR0VzcQB+AAuAW1b/dAAMTk9UX01PRElGSUVEc3EAfgALPHxFV3QAAmFzc3EAfgALbdLdhHQAC3dpdGhTZXNzaW9uc3EAfgAL7OBxFHQAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALdGssznQAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4ACyRtEHp0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAsagI//dAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4AC75c1Dx0AA1yYXckZGVmYXVsdCQyc3EAfgALoX71OnQABHRleHRzcQB+AAsv3YTJdAAIY2FuRXF1YWxzcQB+AAtz8n2tdAAITm90Rm91bmRzcQB+AAstiB/LdAAGY29uZmlnc3EAfgALjAADfnQACElGX1JBTkdFc3EAfgALasuh73QAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4ACwEeJoF0ABttdWx0aXBhcnRGb3JtRGF0YSRkZWZhdWx0JDJzcQB+AAvoHDpVdAAIZmxhc2hpbmdzcQB+AAvO1lTSdAAHZGVjaHVua3NxAH4ACxCrBP10AARGT1JNc3EAfgAL/IEiMHQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAs7uBOVdAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4ACyPCF3p0ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAvZcpYOdAANcHJvZHVjdFByZWZpeHNxAH4AC75JQ7h0AA5DT05URU5UX0xFTkdUSHNxAH4AC/isn7V0AA10ZW1wb3JhcnlGaWxlc3EAfgALTUOMCHQAClNFVF9DT09LSUVzcQB+AAsCns+gdAAJbm90aWZ5QWxsc3EAfgALwj9ngHQAA0FHRXNxAH4AC26Xu3R0ABREZWZhdWx0TWF4VGV4dExlbmd0aHNxAH4AC0t2tfN0AAtCQURfR0FURVdBWXNxAH4AC7pWiWR0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAsG9OImdAAKQ09OTkVDVElPTnNxAH4ACxAcQ4p0AAlGT1JXQVJERURzcQB+AAuOFljXdAACT2tzcQB+AAufLim8dAAMaXNJbnN0YW5jZU9mc3EAfgALZOF4cnQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAtkZytbdAACT0tzcQB+AAvupdM1dAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAv3vNtNdAAKaW1wb3J0V29yZHNxAH4AC/IrEzF0ABVBcHBsaWNhdGlvblhtbE1hdGNoZXJzcQB+AAt3NaCIdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC9yaaMR0AA5DQUNIRV9NQU5JRkVTVHNxAH4ACxB8UCV0AAlGb3JiaWRkZW5zcQB+AAvovDgWdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAu6jxIxdAAEVEVYVHNxAH4ACyLCLX90AApCYWRSZXF1ZXN0c3EAfgALub14b3QABUZPVU5Ec3EAfgALgi7iy3QABjxpbml0PnNxAH4ACz2qy4h0AAtOb3RNb2RpZmllZHNxAH4AC/QgI8Z0AAREQVRFc3EAfgALgWyB1nQAD2NyZWF0ZUJhZFJlc3VsdHNxAH4AC/ixmYl0AAVhc3luY3NxAH4AC38dzHN0AA1DT05URU5UX1JBTkdFc3EAfgALHjO8BHQACVVOTElNSVRFRHNxAH4AC3Sem6x0AAQkYW1wc3EAfgALosXxrHQADHNlbmRSZXNvdXJjZXNxAH4ACwzhIP50AAx0b2xlcmFudFRleHRzcQB+AAtMBX9ddAAHY2h1bmtlZHNxAH4ACzHpRbh0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC1LsKg10AAVhcHBseXNxAH4AC0r2q/p0AANyYXdzcQB+AAvwMObPdAAFZXJyb3JzcQB+AAvHGwM1dAADeG1sc3EAfgALgqmWAHQABXBhcnNlc3EAfgALavmqE3QAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAs9oNmodAACPT1zcQB+AAsrtyUGdAAER09ORXNxAH4AC6Rb3mB0AARHb25lc3EAfgALpnPR2HQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALmDKifnQADk5PVF9BQ0NFUFRBQkxFc3EAfgALUuWzaHQABWNsb25lc3EAfgALpjij53QABnN0cmVhbXNxAH4AC+8UWDx0AAZFWFBFQ1RzcQB+AAuocJZvdAAWc2VuZFJlc291cmNlJGRlZmF1bHQkM3NxAH4AC5nL3wJ0AAdkZWZhdWx0c3EAfgALD2nEbnQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC02TvZZ0AAhMT0NBVElPTnNxAH4AC6VKPJB0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAvb5JqadAAEVkFSWXNxAH4AC2pdJlV0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALlZIHcnQABkltcG9ydHNxAH4AC7M06JJ0AARmZWVkc3EAfgALDWzlFnQABFRPRE9zcQB+AAuaBPFBdAAPWF9GT1JXQVJERURfRk9Sc3EAfgALv05hknQADmZvcm0kZGVmYXVsdCQzc3EAfgALzHHUAXQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC0qgKfJ0AAhBQ0NFUFRFRHNxAH4ACxqsbtt0AARIdG1sc3EAfgALD2btkHQACk5PX0NPTlRFTlRzcQB+AAtd1e+BdAAISFRUUF8xXzBzcQB+AAvIwgHqdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAL6P+qVHQAD2NodW5rJGRlZmF1bHQkMXNxAH4AC85m8xl0AAdVUEdSQURFc3EAfgALrvJAjHQAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAuH6g6ndAAJTk9UX0ZPVU5Ec3EAfgALJEky53QAB3Nlc3Npb25zcQB+AAuapJRAdAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALM+i7+HQAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAu2vk6DdAAHRVhQSVJFU3NxAH4ACynh17N0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC1r+Eo90AARjb3B5c3EAfgALx5TlcHQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAv2Wnd9dAAGaGVhZGVyc3EAfgALeO/3dXQAFERlZmF1bHRNYXhEaXNrTGVuZ3Roc3EAfgALxFQXlnQACHRvU3RyaW5nc3EAfgALtBr6DHQADFVuYXV0aG9yaXplZHNxAH4AC0GnqpZ0AARmaWxlc3EAfgALIbCn+XQADlJlcXVlc3RUaW1lb3V0c3EAfgALkoqmmnQABkFDQ0VQVHNxAH4AC2ZQZ2J0AApVcmlUb29Mb25nc3EAfgALDz9wdXQAD0dBVEVXQVlfVElNRU9VVHNxAH4AC/knzrN0AAtNdWx0aVN0YXR1c3NxAH4AC+/AM/N0AAZTRVJWRVJzcQB+AAtOHfMrdAAdQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9NRVRIT0RzcQB+AAtypXvrdAAUVU5QUk9DRVNTQUJMRV9FTlRJVFlzcQB+AAtbKNltdAAWQUNDRVNTX0NPTlRST0xfTUFYX0FHRXNxAH4ACyfxX6Z0AAhzZW5kUGF0aHNxAH4AC0HiZ+J0AAIhPXNxAH4AC3EkHw10AA1MQVNUX01PRElGSUVEc3EAfgALIgQqgHQAHUFDQ0VTU19DT05UUk9MX0VYUE9TRV9IRUFERVJTc3EAfgALc/d1dHQAHkFDQ0VTU19DT05UUk9MX1JFUVVFU1RfSEVBREVSU3NxAH4AC3SNJdZ0AAt3aXRoQ2hhcnNldHNxAH4AC17nTsF0AAhDb25mbGljdHNxAH4AC62d/ap0AApjb25uZWN0aW9uc3EAfgALMroKX3QABUFMTE9Xc3EAfgALtAfW53QABkNPT0tJRXNxAH4ACzWRPUt0ABFJRl9NT0RJRklFRF9TSU5DRXNxAH4AC2XaQJp0AAhnZXRDbGFzc3NxAH4AC/P8y0t0AANYbWxzcQB+AAt70y2udAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4ACxBMIpd0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC3gluLt0AARIVE1Mc3EAfgALkhWOqnQABUZvdW5kc3EAfgALAWIlmXQAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgALkbC7y3QABGZvcm1zcQB+AAuThVeSdAAGcmVuZGVyc3EAfgAL0IqNi3QABlBSQUdNQXNxAH4AC1xg0E10AAhJRl9NQVRDSHNxAH4AC/R2ApJ0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4AC0LxkiR0AA1SRVNFVF9DT05URU5Uc3EAfgALr4iOTHQACVNFRV9PVEhFUnNxAH4AC7eKoZ50ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC/OfLpp0AAJuZXNxAH4AC2rB4+F0ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALsfUeDXQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAtCD8jddAAFUkFOR0VzcQB+AAuSQ3bgdAAPd2l0aERhdGVIZWFkZXJzc3EAfgALHMrwWXQACVVTRV9QUk9YWXNxAH4AC6b3rix0AAdBY2NlcHRzc3EAfgALBfH+ZXQAB0NIVU5LRURzcQB+AAtPRg6PdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAvaeSmVdAASUmVkaXJlY3QkZGVmYXVsdCQzc3EAfgAL/HmSP3QABkxPQ0tFRHNxAH4AC82wF9N0AAR3aGVuc3EAfgALNiRJs3QAEnNlbmRQYXRoJGRlZmF1bHQkM3NxAH4AC1wR2/J0AAZpZ25vcmVzcQB+AAuUaqrIdAAESnNvbnNxAH4AC/7Srll0AAltYXhMZW5ndGhzcQB+AAvFK2GidAAJRk9SQklEREVOc3EAfgALpK8Z3XQAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC85BC3t0AAJlcXNxAH4AC1XCHNx0ABljcmVhdGVCYWRSZXN1bHQkZGVmYXVsdCQyc3EAfgALVi4sHnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACynI26l0AA1JRl9OT05FX01BVENIc3EAfgALeAtFqHQADUFDQ0VQVF9SQU5HRVNzcQB+AAvM7jrudAAJTm9Db250ZW50c3EAfgALyH7uAnQAEFhfUkVRVUVTVEVEX1dJVEhzcQB+AAtreD1BdAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAsPDdLLdAALdG9sZXJhbnRYbWxzcQB+AAulHaNhdAAMTVVMVElfU1RBVFVTc3EAfgALdKQpuHQAAiMjc3EAfgALlRDfTHQACGZpbmFsaXplc3EAfgAL2cWuRHQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAsnZupKdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAuxLHFTdAAIaGFzaENvZGVzcQB+AAs7Q7XsdAAGU3RhdHVzc3EAfgAL7I47ynQAC3dpdGhIZWFkZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CTXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEmNvbnRyb2xsZXJzLkltcG9ydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4CZgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CTUwACWluaGVyaXRlZHEAfgJNTAAHcGFyZW50c3EAfgJNeHEAfgJtc3EAfgJmAXVxAH4CSAAAAABwc3EAfgJmAXVxAH4CSAAAAABwc3EAfgJmAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAMc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4CbHQACkNvbnRyb2xsZXJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AmxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+AoV0AANhcGlzcQB+AoV0AANtdmNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ChnNxAH4CeXQACVJlbmRlcmluZ3EAfgJ/c3EAfgJ5dAARUmVxdWVzdEV4dHJhY3RvcnNxAH4Cf3NxAH4CeXQAEEFjY2VwdEV4dHJhY3RvcnNxAH4Cf3NxAH4CeXQADENvbnRlbnRUeXBlc3NxAH4CfXNxAH4CgHVxAH4CgwAAAARzcQB+AoV0AARwbGF5c3EAfgKFcQB+AopzcQB+AoV0AARodHRwcQB+Ao5zcQB+Anl0AAtIZWFkZXJOYW1lc3EAfgKXc3EAfgJ5dAAGU3RhdHVzcQB+ApdzcQB+Anl0AAxIdHRwUHJvdG9jb2xxAH4Cl3NxAH4CeXQAC0JvZHlQYXJzZXJzcQB+An9zcQB+Anl0AAdSZXN1bHRzcQB+An9zcQB+Anl0AAZPYmplY3RzcQB+An1zcQB+AoB1cQB+AoMAAAADc3EAfgKFdAAEamF2YXNxAH4ChXQABGxhbmdxAH4CjnNxAH4CeXQAA0FueXNxAH4CfXNxAH4CgHVxAH4CgwAAAAJzcQB+AoV0AAVzY2FsYXEAfgKOcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHWDiDm1REs+qP+xt2oqQIfmiFXN
+C:\git\Quizzer\app\controllers\Quizz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAM/DQhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEl3fknQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC6ewqfZ0AA1yZXF1ZXN0MmZsYXNoc3EAfgALtlRSdHQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARhzcQB+AAve+/eHdAALY2hlY2tGb3JFb2ZzcQB+AAv+i9MNdAAMUmVzZXRDb250ZW50c3EAfgALpXHh73QADU5vdEFjY2VwdGFibGVzcQB+AAswtfeWdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAuMU4CWdAAIc2VuZEZpbGVzcQB+AAsUVuYNdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALkbM0bnQABkxvY2tlZHNxAH4AC9b/vD90AAZub3RpZnlzcQB+AAu/BAR8dAAERlJPTXNxAH4AC8DT96d0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALEkWupHQAB0NSRUFURURzcQB+AAuR2wBadAAHdW5hcHBseXNxAH4ACz33pq90ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALTy/WH3QAEnRvbGVyYW50Qm9keVBhcnNlcnNxAH4ACz8n0QJ0AAdXQVJOSU5Hc3EAfgAL3RgSpnQAD1BheW1lbnRSZXF1aXJlZHNxAH4AC4/GiiN0AAhDT05USU5VRXNxAH4AC32Sbal0AARib2R5c3EAfgALF9rhaHQABWNodW5rc3EAfgAL73xA0nQADmZvcm0kZGVmYXVsdCQyc3EAfgALO65y83QAC1NFVF9DT09LSUUyc3EAfgALADwWpHQACEhUVFBfMV8xc3EAfgALISC5tXQAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAuAmN62dAANcmF3JGRlZmF1bHQkMXNxAH4AC4/lJWh0AAxDT05URU5UX1RZUEVzcQB+AAtAqM8UdAAGQklOQVJZc3EAfgALyQMxP3QABHdhaXRzcQB+AAvOzUq0dAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4AC4GuwIt0AApCYWRHYXRld2F5c3EAfgAL5lC9EHQAEE1ldGhvZE5vdEFsbG93ZWRzcQB+AAvIMy23dAAOVG9vTWFueVJlcXVlc3RzcQB+AAuBiNd9dAATZGVjaHVua1dpdGhUcmFpbGVyc3NxAH4AC9w2VgN0AApVU0VSX0FHRU5Uc3EAfgALNUJMB3QAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDJzcQB+AAsQfNa0dAAESE9TVHNxAH4AC+96HLB0AAtDT05URU5UX01ENXNxAH4AC0fZr310AA5jb3B5JGRlZmF1bHQkMnNxAH4AC0d+Q7t0AAdDcmVhdGVkc3EAfgALxtkS83QADSRhc0luc3RhbmNlT2ZzcQB+AAtXTDlHdAAFZW1wdHlzcQB+AAv4fMSadAAQWF9GT1JXQVJERURfUE9SVHNxAH4AC7vSv5B0AApKYXZhU2NyaXB0c3EAfgALeHdap3QAC0JBRF9SRVFVRVNUc3EAfgALHCLhqXQABXVzaW5nc3EAfgALS9rl0XQADk5vdEltcGxlbWVudGVkc3EAfgALlC46NXQADE1BWF9GT1JXQVJEU3NxAH4AC5qb/UF0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALcRq0l3QAA0NTU3NxAH4AC43ixfB0AAx0b2xlcmFudEpzb25zcQB+AAtOpFs2dAAIU2VlT3RoZXJzcQB+AAu9CCQOdAAHVFJBSUxFUnNxAH4ACyw+MF10ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAsFUObSdAANQVVUSE9SSVpBVElPTnNxAH4ACxrgmVx0AANYTUxzcQB+AAuPVlkydAAKYW55Q29udGVudHNxAH4ACxQBekR0AA1DQUNIRV9DT05UUk9Mc3EAfgALqGP/lnQAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4AC8RBNAx0AA9OT1RfSU1QTEVNRU5URURzcQB+AAuoFLmvdAAMcHJvZHVjdEFyaXR5c3EAfgALE2Kwh3QABmVxdWFsc3NxAH4AC3QQprp0ABBQQVlNRU5UX1JFUVVJUkVEc3EAfgALLw8d1XQABGpzb25zcQB+AAtszLDQdAAIQWNjZXB0ZWRzcQB+AAvzoq1MdAALUkVUUllfQUZURVJzcQB+AAv1QQsOdAASUmVkaXJlY3QkZGVmYXVsdCQyc3EAfgAL5Nts8XQADnVybEZvcm1FbmNvZGVkc3EAfgAL+wEp8HQABEpTT05zcQB+AAspLYR5dAAIUmVkaXJlY3RzcQB+AAvr39DxdAATUFJFQ09ORElUSU9OX0ZBSUxFRHNxAH4ACwbBuil0AA5QYXJ0aWFsQ29udGVudHNxAH4AC7vPqpZ0ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4ACwLWZvl0AAhDT05GTElDVHNxAH4ACx7EVqZ0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAvulPqIdAAOQUNDRVBUX0NIQVJTRVRzcQB+AAtOahnwdAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAs34lQydAADVklBc3EAfgALqiIdOHQADGFzSW5zdGFuY2VPZnNxAH4ACxTc6gt0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAs/Kl+idAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4AC1HbMAt0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4AC+ysh010AAJURXNxAH4AC5oPPbd0AA5HYXRld2F5VGltZW91dHNxAH4AC8xvtt90ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgALrrLMdnQAD1BBUlRJQUxfQ09OVEVOVHNxAH4ACyOUw3p0ABNyZW1vdmluZ0Zyb21TZXNzaW9uc3EAfgALyGu2CHQAFElOU1VGRklDSUVOVF9TVE9SQUdFc3EAfgALdi5A7XQAEW11bHRpcGFydEZvcm1EYXRhc3EAfgALcsf8Q3QADEVWRU5UX1NUUkVBTXNxAH4AC4ZVyHl0AAxzeW5jaHJvbml6ZWRzcQB+AAtiOxXrdAAQRmFpbGVkRGVwZW5kZW5jeXNxAH4AC9YmeaV0AARFVEFHc3EAfgALw0jC0HQAD0xFTkdUSF9SRVFVSVJFRHNxAH4ACyDAgft0AA53aXRoTmV3U2Vzc2lvbnNxAH4AC5UCfCp0AApKQVZBU0NSSVBUc3EAfgALdcU7CHQADkVudGl0eVRvb0xhcmdlc3EAfgALC8vhynQADFVOQVVUSE9SSVpFRHNxAH4AC/Ohy7N0ABJzZW5kUGF0aCRkZWZhdWx0JDJzcQB+AAsR0P9qdAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4AC6evSTZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAL96wznnQAB1JFRkVSRVJzcQB+AAsvcgMLdAAYUkVRVUVTVF9FTlRJVFlfVE9PX0xBUkdFc3EAfgALvJo8cnQABk9SSUdJTnNxAH4ACzHHiF50AAt3aXRoQ29va2llc3NxAH4ACwqtPQp0AA9BQ0NFUFRfTEFOR1VBR0VzcQB+AAvhbCXGdAAMTk9UX01PRElGSUVEc3EAfgALRTsQg3QAAmFzc3EAfgALZcO8IXQAC3dpdGhTZXNzaW9uc3EAfgALFxZKJnQAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALiDhaunQAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4ACwQhUsJ0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAu6+pc1dAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4AC9LERHB0AA1yYXckZGVmYXVsdCQyc3EAfgALMewMsHQABHRleHRzcQB+AAtVHNCXdAAIY2FuRXF1YWxzcQB+AAvciVMvdAAITm90Rm91bmRzcQB+AAtn2KBFdAAGY29uZmlnc3EAfgAL+PC4/XQACElGX1JBTkdFc3EAfgALRQTudXQAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4ACxiyOt10ABttdWx0aXBhcnRGb3JtRGF0YSRkZWZhdWx0JDJzcQB+AAtq9Wm/dAAIZmxhc2hpbmdzcQB+AAsFQ6cadAAHZGVjaHVua3NxAH4ACxSb2jd0AARGT1JNc3EAfgALX8HjdXQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAvIQBStdAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4AC4S+Jsp0ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAtIyl7vdAANcHJvZHVjdFByZWZpeHNxAH4AC+upaJR0AA5DT05URU5UX0xFTkdUSHNxAH4AC0oG4Xt0AA10ZW1wb3JhcnlGaWxlc3EAfgALcuJ/sHQAClNFVF9DT09LSUVzcQB+AAuACLbsdAAJbm90aWZ5QWxsc3EAfgALuozBiXQAA0FHRXNxAH4ACyhUpRJ0ABREZWZhdWx0TWF4VGV4dExlbmd0aHNxAH4AC058dop0AAtCQURfR0FURVdBWXNxAH4AC9Y4iFN0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAs7oCbhdAAKQ09OTkVDVElPTnNxAH4AC9qjui90AAlGT1JXQVJERURzcQB+AAtODxSSdAAFUXVpenpzcQB+AAucf0LxdAACT2tzcQB+AAvO1GggdAAMaXNJbnN0YW5jZU9mc3EAfgAL1trdzXQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAsdD79udAACT0tzcQB+AAthtemvdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAu6kxQtdAAVQXBwbGljYXRpb25YbWxNYXRjaGVyc3EAfgALT7REnHQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAs5EzzOdAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAvn7BnWdAAJRm9yYmlkZGVuc3EAfgALOHWv33QAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgAL62f4YnQABFRFWFRzcQB+AAvXDi5+dAAKQmFkUmVxdWVzdHNxAH4ACwr7AMR0AAVGT1VORHNxAH4AC3QuRt10AAY8aW5pdD5zcQB+AAvu+7KVdAALTm90TW9kaWZpZWRzcQB+AAuTOqb2dAAEREFURXNxAH4ACz3LriR0AA9jcmVhdGVCYWRSZXN1bHRzcQB+AAu8jNjedAAFYXN5bmNzcQB+AAshAp97dAANQ09OVEVOVF9SQU5HRXNxAH4AC5McxmF0AAlVTkxJTUlURURzcQB+AAubJ0BIdAAEJGFtcHNxAH4AC/qcKER0AAxzZW5kUmVzb3VyY2VzcQB+AAveNAR1dAAMdG9sZXJhbnRUZXh0c3EAfgAL6YT8zXQAB2NodW5rZWRzcQB+AAuusMzcdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAv/fDnPdAAFYXBwbHlzcQB+AAt15R6OdAADcmF3c3EAfgALmqkkVXQABWVycm9yc3EAfgALmEQVrnQAA3htbHNxAH4AC7GkiZd0AAVwYXJzZXNxAH4ACx0NqQR0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALJjbkpnQAAj09c3EAfgALDnRvO3QABEdPTkVzcQB+AAvfeiTfdAAER29uZXNxAH4ACwNPJ7Z0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4AC0Du5KV0AA5OT1RfQUNDRVBUQUJMRXNxAH4AC1Xv0dh0AAVjbG9uZXNxAH4AC/wnL5Z0AAZzdHJlYW1zcQB+AAsHt6oNdAAGRVhQRUNUc3EAfgALcj6U63QAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDNzcQB+AAtdeIhWdAAHZGVmYXVsdHNxAH4ACyoFT5p0ABJTZXJ2aWNlVW5hdmFpbGFibGVzcQB+AAvKsawYdAAITE9DQVRJT05zcQB+AAux6awsdAASc2VuZFBhdGgkZGVmYXVsdCQ0c3EAfgALTiVNoHQABFZBUllzcQB+AAsHOckkdAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4AC1T2/kh0AARmZWVkc3EAfgALge3bZnQABFRPRE9zcQB+AAvou6HGdAAPWF9GT1JXQVJERURfRk9Sc3EAfgALobmOCXQADmZvcm0kZGVmYXVsdCQzc3EAfgALJU6WDnQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC4XcWjt0AAhBQ0NFUFRFRHNxAH4AC1OE0Jt0AARIdG1sc3EAfgALeL9RJ3QACk5PX0NPTlRFTlRzcQB+AAseXf8tdAAISFRUUF8xXzBzcQB+AAtbOhc0dAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAL00fJn3QAD2NodW5rJGRlZmF1bHQkMXNxAH4ACy+APil0AAdVUEdSQURFc3EAfgALZu0l4XQAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAtwSDfKdAAJTk9UX0ZPVU5Ec3EAfgALzcxejHQAB3Nlc3Npb25zcQB+AAsq9ndTdAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALNTL5LXQAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAutuJ5hdAAHRVhQSVJFU3NxAH4ACx08sv50AA5jb3B5JGRlZmF1bHQkM3NxAH4AC+UpToZ0AARjb3B5c3EAfgALVcIQBXQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAv1Lqn+dAAGaGVhZGVyc3EAfgALxbpf4HQAFERlZmF1bHRNYXhEaXNrTGVuZ3Roc3EAfgAL3SJtGXQACHRvU3RyaW5nc3EAfgALlXXQpXQADFVuYXV0aG9yaXplZHNxAH4AC2WaW2x0AARmaWxlc3EAfgALsoNYo3QABXF1aXp6c3EAfgALDSmkQXQADlJlcXVlc3RUaW1lb3V0c3EAfgAL+6rtgHQABkFDQ0VQVHNxAH4ACxXfzuB0AApVcmlUb29Mb25nc3EAfgALxczkS3QAD0dBVEVXQVlfVElNRU9VVHNxAH4AC/Ii4Wx0AAtNdWx0aVN0YXR1c3NxAH4AC8encLx0AAZTRVJWRVJzcQB+AAvtl+dfdAAdQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9NRVRIT0RzcQB+AAtR7NshdAAUVU5QUk9DRVNTQUJMRV9FTlRJVFlzcQB+AAsJEcXqdAAWQUNDRVNTX0NPTlRST0xfTUFYX0FHRXNxAH4AC9lkJT50AAhzZW5kUGF0aHNxAH4AC5Avr6x0AAIhPXNxAH4AC8BUAcJ0AA1MQVNUX01PRElGSUVEc3EAfgALpnUeLnQAHUFDQ0VTU19DT05UUk9MX0VYUE9TRV9IRUFERVJTc3EAfgAL3/TlAnQAHkFDQ0VTU19DT05UUk9MX1JFUVVFU1RfSEVBREVSU3NxAH4AC5y5zy50AAt3aXRoQ2hhcnNldHNxAH4AC2Jv/850AAhDb25mbGljdHNxAH4AC5q0S5N0AApjb25uZWN0aW9uc3EAfgALoiscoHQABUFMTE9Xc3EAfgALIoS51nQABkNPT0tJRXNxAH4AC1xNkWp0ABFJRl9NT0RJRklFRF9TSU5DRXNxAH4AC8CJSHN0AAhnZXRDbGFzc3NxAH4ACyupMGl0AANYbWxzcQB+AAtaZiohdAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4ACwz0+hh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ACwrhDAd0AARIVE1Mc3EAfgALQqNnXHQABUZvdW5kc3EAfgALMnkgQHQAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgALntxzN3QABGZvcm1zcQB+AAsFINLUdAAGcmVuZGVyc3EAfgALkOgsUHQABlBSQUdNQXNxAH4AC6iVHsx0AAhJRl9NQVRDSHNxAH4AC6r+2Xl0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4ACzBqHVl0AA1SRVNFVF9DT05URU5Uc3EAfgALjNIfWnQACVNFRV9PVEhFUnNxAH4AC1ZiTQV0ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC4sYoCB0AAJuZXNxAH4AC024YVV0ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALLJMyZnQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAup0D2KdAAFUkFOR0VzcQB+AAuDwRUpdAAPd2l0aERhdGVIZWFkZXJzc3EAfgALxveFWHQACVVTRV9QUk9YWXNxAH4ACyf1zR10AAdBY2NlcHRzc3EAfgALWTMWDXQAB0NIVU5LRURzcQB+AAtGXmNZdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAuBXuUadAASUmVkaXJlY3QkZGVmYXVsdCQzc3EAfgAL9ENntHQABkxPQ0tFRHNxAH4ACwLo0Ix0AAR3aGVuc3EAfgAL5OY8hnQAEnNlbmRQYXRoJGRlZmF1bHQkM3NxAH4AC+9Joo10AAZpZ25vcmVzcQB+AAv2wBIPdAAESnNvbnNxAH4AC7k0lCd0AAltYXhMZW5ndGhzcQB+AAvTOsL8dAAJRk9SQklEREVOc3EAfgALGS97UHQAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC+VoTWZ0AAJlcXNxAH4AC8z3tmZ0ABljcmVhdGVCYWRSZXN1bHQkZGVmYXVsdCQyc3EAfgAL7xjzHnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACx9I43J0AA1JRl9OT05FX01BVENIc3EAfgALXKQCQHQADUFDQ0VQVF9SQU5HRVNzcQB+AAta+B3RdAAJTm9Db250ZW50c3EAfgALfLapfHQAEFhfUkVRVUVTVEVEX1dJVEhzcQB+AAv9eBGgdAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAsUpRetdAALdG9sZXJhbnRYbWxzcQB+AAvql8YkdAAMTVVMVElfU1RBVFVTc3EAfgALazRQjnQAAiMjc3EAfgALDyKkmHQACGZpbmFsaXplc3EAfgALTowop3QAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAs5rqj8dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtOEKHadAAIaGFzaENvZGVzcQB+AAs5oE9tdAAGU3RhdHVzc3EAfgALn3ysVXQAC3dpdGhIZWFkZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CTXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEWNvbnRyb2xsZXJzLlF1aXp6dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAATamF2YXguaW5qZWN0LkluamVjdHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4CZ3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4CZgBwc3EAfgJrc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Ak1MAAlpbmhlcml0ZWRxAH4CTUwAB3BhcmVudHNxAH4CTXhxAH4Cb3NxAH4CZgBwc3EAfgJrdXEAfgJIAAAAAHNxAH4CZgBwc3EAfgJrdXEAfgJIAAAAAHNxAH4CZgBwc3EAfgJrdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAxzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgJudAAKQ29udHJvbGxlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4CbnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Ci3QAA2FwaXNxAH4Ci3QAA212Y3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgKMc3EAfgJ/dAAJUmVuZGVyaW5ncQB+AoVzcQB+An90ABFSZXF1ZXN0RXh0cmFjdG9yc3EAfgKFc3EAfgJ/dAAQQWNjZXB0RXh0cmFjdG9yc3EAfgKFc3EAfgJ/dAAMQ29udGVudFR5cGVzc3EAfgKDc3EAfgKGdXEAfgKJAAAABHNxAH4Ci3QABHBsYXlzcQB+AotxAH4CkHNxAH4Ci3QABGh0dHBxAH4ClHNxAH4Cf3QAC0hlYWRlck5hbWVzcQB+Ap1zcQB+An90AAZTdGF0dXNxAH4CnXNxAH4Cf3QADEh0dHBQcm90b2NvbHEAfgKdc3EAfgJ/dAALQm9keVBhcnNlcnNxAH4ChXNxAH4Cf3QAB1Jlc3VsdHNxAH4ChXNxAH4Cf3QABk9iamVjdHNxAH4Cg3NxAH4ChnVxAH4CiQAAAANzcQB+Aot0AARqYXZhc3EAfgKLdAAEbGFuZ3EAfgKUc3EAfgJ/dAADQW55c3EAfgKDc3EAfgKGdXEAfgKJAAAAAnNxAH4Ci3QABXNjYWxhcQB+ApR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBKRwyfeu8xbA5izTw+BzIzdtpbJ
+C:\git\Quizzer\app\controllers\Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDYKy/HAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6ByU6HQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4ACz2zo6B0AA1yZXF1ZXN0MmZsYXNoc3EAfgALkQc8tHQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARhzcQB+AAvjzaiJdAALY2hlY2tGb3JFb2ZzcQB+AAtWiKm4dAAMUmVzZXRDb250ZW50c3EAfgALZ/N0Y3QADU5vdEFjY2VwdGFibGVzcQB+AAsU1qAWdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAt4Hc9UdAAIc2VuZEZpbGVzcQB+AAspc6/TdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALOYCxM3QABkxvY2tlZHNxAH4ACzysziJ0AAZub3RpZnlzcQB+AAuNtXYedAAERlJPTXNxAH4AC1SqNXx0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALqcSFP3QAB0NSRUFURURzcQB+AAunqP/pdAAHdW5hcHBseXNxAH4AC2T3IyN0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALTKFqfXQAEnRvbGVyYW50Qm9keVBhcnNlcnNxAH4ACyNK+390AAdXQVJOSU5Hc3EAfgALsQcNK3QAD1BheW1lbnRSZXF1aXJlZHNxAH4AC6v8cvV0AAhDT05USU5VRXNxAH4AC4pUaJl0AARib2R5c3EAfgALTh2AHnQABWNodW5rc3EAfgALKUTfX3QADmZvcm0kZGVmYXVsdCQyc3EAfgALVJk85nQAC1NFVF9DT09LSUUyc3EAfgALXm12QXQACEhUVFBfMV8xc3EAfgAL//KPhnQAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAs4E4d1dAANcmF3JGRlZmF1bHQkMXNxAH4AC8f9iEh0AAxDT05URU5UX1RZUEVzcQB+AAsS3o9odAAGQklOQVJZc3EAfgAL1OFt93QABHdhaXRzcQB+AAvnNdE2dAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4AC/TFN8d0AApCYWRHYXRld2F5c3EAfgALtWEQzHQAEE1ldGhvZE5vdEFsbG93ZWRzcQB+AAvprMMEdAAOVG9vTWFueVJlcXVlc3RzcQB+AAvYE8APdAATZGVjaHVua1dpdGhUcmFpbGVyc3NxAH4AC9B7h990AApVU0VSX0FHRU5Uc3EAfgAL/kQbK3QAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDJzcQB+AAv4+wKsdAAESE9TVHNxAH4ACx9HhaJ0AAtDT05URU5UX01ENXNxAH4AC+QdMsB0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC17mtch0AAdDcmVhdGVkc3EAfgALSKZwLHQADSRhc0luc3RhbmNlT2ZzcQB+AAv+tduddAAFZW1wdHlzcQB+AAudW7sbdAAKdGVzdEFjdGlvbnNxAH4ACwtOYmB0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgALIGIO03QACkphdmFTY3JpcHRzcQB+AAvT9ktwdAALQkFEX1JFUVVFU1RzcQB+AAumjNjsdAAFdXNpbmdzcQB+AAuZ9p++dAAOTm90SW1wbGVtZW50ZWRzcQB+AAsclAJZdAAMTUFYX0ZPUldBUkRTc3EAfgALyynPYnQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAvSvtD9dAADQ1NTc3EAfgALn2hXfnQADHRvbGVyYW50SnNvbnNxAH4ACxlLjpZ0AAhTZWVPdGhlcnNxAH4AC1f9qud0AAdUUkFJTEVSc3EAfgALAWpT2HQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4ACzUsFfZ0AA1BVVRIT1JJWkFUSU9Oc3EAfgALZaLWaXQAA1hNTHNxAH4ACwgKkaB0AAphbnlDb250ZW50c3EAfgALWl5V1nQADUNBQ0hFX0NPTlRST0xzcQB+AAuB3CnSdAAbTm9uQXV0aG9yaXRhdGl2ZUluZm9ybWF0aW9uc3EAfgAL7D4W9nQAD05PVF9JTVBMRU1FTlRFRHNxAH4AC4QsGb10AAxwcm9kdWN0QXJpdHlzcQB+AAtv0kUOdAAGZXF1YWxzc3EAfgAL9n8kf3QAEFBBWU1FTlRfUkVRVUlSRURzcQB+AAtv1TrudAAEanNvbnNxAH4ACwkui4x0AAhBY2NlcHRlZHNxAH4AC7UcvhR0AAtSRVRSWV9BRlRFUnNxAH4AC3mV0Q10ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAsdJeLzdAAOdXJsRm9ybUVuY29kZWRzcQB+AAvyp6FYdAAESlNPTnNxAH4AC72q6id0AAhSZWRpcmVjdHNxAH4ACzU8Zr50ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgALKjHLAHQADlBhcnRpYWxDb250ZW50c3EAfgALa4SrUHQAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgALAvLBAHQACENPTkZMSUNUc3EAfgALW7i/h3QAEnNlbmRGaWxlJGRlZmF1bHQkMnNxAH4ACyttj/B0AA5BQ0NFUFRfQ0hBUlNFVHNxAH4ACxZ/daR0ABFFeHBlY3RhdGlvbkZhaWxlZHNxAH4AC2MdI+h0AANWSUFzcQB+AAvER5RDdAAMYXNJbnN0YW5jZU9mc3EAfgALOhm1P3QAD1JFUVVFU1RfVElNRU9VVHNxAH4ACz5fEy90ABBNVUxUSVBMRV9DSE9JQ0VTc3EAfgALgUKgD3QAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgAL/j1ij3QAAlRFc3EAfgALfRnOxXQADkdhdGV3YXlUaW1lb3V0c3EAfgAL6ATqxnQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAvma9V3dAAPUEFSVElBTF9DT05URU5Uc3EAfgALDpfyFnQAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAtB4SPAdAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAvJ/sRVdAARbXVsdGlwYXJ0Rm9ybURhdGFzcQB+AAvJRB1SdAAMRVZFTlRfU1RSRUFNc3EAfgALZlYLvnQADHN5bmNocm9uaXplZHNxAH4ACxbPQNl0ABBGYWlsZWREZXBlbmRlbmN5c3EAfgAL6z+za3QABEVUQUdzcQB+AAvlSP/OdAAPTEVOR1RIX1JFUVVJUkVEc3EAfgALdgEZ9XQADndpdGhOZXdTZXNzaW9uc3EAfgALhjsYKXQACkpBVkFTQ1JJUFRzcQB+AAtWE1psdAAORW50aXR5VG9vTGFyZ2VzcQB+AAvitlmpdAAMVU5BVVRIT1JJWkVEc3EAfgALYc6o5HQAEnNlbmRQYXRoJGRlZmF1bHQkMnNxAH4AC0S1RHt0ABZVTlNVUFBPUlRFRF9NRURJQV9UWVBFc3EAfgALUogEMXQADSRpc0luc3RhbmNlT2ZzcQB+AAvUOuR5dAAHUkVGRVJFUnNxAH4AC8XB96V0ABhSRVFVRVNUX0VOVElUWV9UT09fTEFSR0VzcQB+AAu0LWhYdAAGT1JJR0lOc3EAfgALG7CFiXQAC3dpdGhDb29raWVzc3EAfgALhtx7V3QAD0FDQ0VQVF9MQU5HVUFHRXNxAH4AC+nimOx0AAxOT1RfTU9ESUZJRURzcQB+AAuHa0RddAACYXNzcQB+AAvHd4aQdAALd2l0aFNlc3Npb25zcQB+AAtOLSqzdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAtHk62jdAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALz3oaJHQAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC8zdICF0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALRgBeyHQADXJhdyRkZWZhdWx0JDJzcQB+AAvXYDh9dAAEdGV4dHNxAH4AC4Gvzpp0AAhjYW5FcXVhbHNxAH4ACx6FGcB0AAhOb3RGb3VuZHNxAH4AC3A3of50AAZjb25maWdzcQB+AAuqQ0WtdAAISUZfUkFOR0VzcQB+AAvOaA3/dAASc2VuZEZpbGUkZGVmYXVsdCQ0c3EAfgALolwBrHQAG211bHRpcGFydEZvcm1EYXRhJGRlZmF1bHQkMnNxAH4AC6BR73B0AAhmbGFzaGluZ3NxAH4AC6ZkhSl0AAdkZWNodW5rc3EAfgALcJMrFXQABEZPUk1zcQB+AAvItF54dAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4AC8GPEiJ0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALbUCCyXQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4AC0lCsiV0AA1wcm9kdWN0UHJlZml4c3EAfgALL5CN6HQADkNPTlRFTlRfTEVOR1RIc3EAfgALPXVd73QADXRlbXBvcmFyeUZpbGVzcQB+AAtr/WRKdAAKU0VUX0NPT0tJRXNxAH4AC948p550AAlub3RpZnlBbGxzcQB+AAsTMaUmdAADQUdFc3EAfgALRbLCHXQAFERlZmF1bHRNYXhUZXh0TGVuZ3Roc3EAfgALmoAiKXQAC0JBRF9HQVRFV0FZc3EAfgALj5CVCXQAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4AC5ubf3t0AApDT05ORUNUSU9Oc3EAfgALQNHFEHQACUZPUldBUkRFRHNxAH4AC0+9X750AAJPa3NxAH4AC1W25LJ0AAxpc0luc3RhbmNlT2ZzcQB+AAsEHdoBdAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC7ZScFl0AAJPS3NxAH4ACzKSdyZ0ABFkaXNjYXJkaW5nQ29va2llc3NxAH4AC0oBpY10ABVBcHBsaWNhdGlvblhtbE1hdGNoZXJzcQB+AAvoN/NudAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC9lZRnx0AA5DQUNIRV9NQU5JRkVTVHNxAH4ACw6zdkp0AAlGb3JiaWRkZW5zcQB+AAsJoKCTdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAtMrumMdAAEVEVYVHNxAH4AC++Q1sV0AApCYWRSZXF1ZXN0c3EAfgALnRkj5nQABUZPVU5Ec3EAfgALNxoqOXQABjxpbml0PnNxAH4ACyKagVx0AAtOb3RNb2RpZmllZHNxAH4AC1zyict0AAREQVRFc3EAfgALgLtuenQAD2NyZWF0ZUJhZFJlc3VsdHNxAH4AC/oMMC10AAVhc3luY3NxAH4AC9cTXMZ0AA1DT05URU5UX1JBTkdFc3EAfgALYWp9MXQACVVOTElNSVRFRHNxAH4AC7E32gV0AAQkYW1wc3EAfgALyLGITnQADHNlbmRSZXNvdXJjZXNxAH4AC3bjGG10AAx0b2xlcmFudFRleHRzcQB+AAtnnH0qdAAHY2h1bmtlZHNxAH4AC/aYa4B0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC+JtXnl0AAVhcHBseXNxAH4AC0Ex1yx0AANyYXdzcQB+AAsgH96GdAAFZXJyb3JzcQB+AAvtbn4gdAADeG1sc3EAfgALpVRVynQABXBhcnNlc3EAfgAL1ajzVnQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAs7bkqQdAACPT1zcQB+AAupasyrdAAER09ORXNxAH4AC3ivp1h0AARHb25lc3EAfgALAIHXxnQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALXVEVTnQADk5PVF9BQ0NFUFRBQkxFc3EAfgAL7XfmgnQABWNsb25lc3EAfgALoLsmzHQABnN0cmVhbXNxAH4AC1lfEYN0AAZFWFBFQ1RzcQB+AAuBW8/9dAAWc2VuZFJlc291cmNlJGRlZmF1bHQkM3NxAH4AC0CsTuZ0AAdkZWZhdWx0c3EAfgALEpU/43QAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC7zIj8t0AAhMT0NBVElPTnNxAH4AC1OlwFp0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAsHenN3dAAEVkFSWXNxAH4AC8IN0U50ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALrQ/zh3QABGZlZWRzcQB+AAvMrFiWdAAEVE9ET3NxAH4ACxUMK/R0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAvvvpXkdAAOZm9ybSRkZWZhdWx0JDNzcQB+AAuSh5o+dAASUHJlY29uZGl0aW9uRmFpbGVkc3EAfgALLLoQVXQACEFDQ0VQVEVEc3EAfgALSaqRS3QABEh0bWxzcQB+AAsGke8vdAAKTk9fQ09OVEVOVHNxAH4ACxvKBXV0AAhIVFRQXzFfMHNxAH4ACz85B3V0ABVJTlRFUk5BTF9TRVJWRVJfRVJST1JzcQB+AAvlxEb8dAAPY2h1bmskZGVmYXVsdCQxc3EAfgALZ5YzhXQAB1VQR1JBREVzcQB+AAs/NwhzdAAWdG9sZXJhbnRGb3JtVXJsRW5jb2RlZHNxAH4ACxFEex10AAlOT1RfRk9VTkRzcQB+AAv8HyIadAAHc2Vzc2lvbnNxAH4AC4dfxNV0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAshHxqrdAATSW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4ACzaUsqp0AAdFWFBJUkVTc3EAfgALe560+XQADmNvcHkkZGVmYXVsdCQzc3EAfgALsprrBnQABGNvcHlzcQB+AAtjCnUJdAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4AC1ImKfF0AARUZXN0c3EAfgAL23zg9HQABmhlYWRlcnNxAH4ACy+N1kJ0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4AC0dB/5t0AAh0b1N0cmluZ3NxAH4AC83Z4sN0AAxVbmF1dGhvcml6ZWRzcQB+AAsau00pdAAEZmlsZXNxAH4AC4OYuhZ0AA5SZXF1ZXN0VGltZW91dHNxAH4AC0ilpR90AAZBQ0NFUFRzcQB+AAumjKmddAAKVXJpVG9vTG9uZ3NxAH4AC5KLpyB0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAtBodukdAALTXVsdGlTdGF0dXNzcQB+AAskD5undAAGU0VSVkVSc3EAfgALUv6SWXQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALOTP+U3QAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAL0+aYKnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAvFzXLQdAAIc2VuZFBhdGhzcQB+AAvHTSV/dAACIT1zcQB+AAtPum61dAANTEFTVF9NT0RJRklFRHNxAH4AC2AGGNN0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACwLs9FF0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAvWjjjedAALd2l0aENoYXJzZXRzcQB+AAtnXAeWdAAIQ29uZmxpY3RzcQB+AAu9v0undAAKY29ubmVjdGlvbnNxAH4AC1r4lph0AAVBTExPV3NxAH4AC1Nf1Zl0AAZDT09LSUVzcQB+AAu5EXgcdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAuzUcXsdAAIZ2V0Q2xhc3NzcQB+AAt6vIrmdAADWG1sc3EAfgALsMwnPnQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAtGnoyWdAAOY29weSRkZWZhdWx0JDFzcQB+AAsmQY/SdAAESFRNTHNxAH4AC960sRt0AAVGb3VuZHNxAH4AC3+RIR90AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4AC4cH5YF0AARmb3Jtc3EAfgALFZ1nuHQABnJlbmRlcnNxAH4AC3SZejx0AAZQUkFHTUFzcQB+AAtcb90pdAAISUZfTUFUQ0hzcQB+AAtd5mmkdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAuQdmYLdAANUkVTRVRfQ09OVEVOVHNxAH4AC0eOI250AAlTRUVfT1RIRVJzcQB+AAszji1wdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAuDUugVdAACbmVzcQB+AAvBy7CtdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC7j5MnV0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALp+OPO3QABVJBTkdFc3EAfgAL8HaliHQAD3dpdGhEYXRlSGVhZGVyc3NxAH4AC4RvXTh0AAlVU0VfUFJPWFlzcQB+AAsXJEwAdAAHQWNjZXB0c3NxAH4AC4OFsxl0AAdDSFVOS0VEc3EAfgALtY/9wnQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgALywLZQHQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC3eavqV0AAZMT0NLRURzcQB+AAvTw9kAdAAEd2hlbnNxAH4AC69jW8t0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAsimCMxdAAGaWdub3Jlc3EAfgAL86NspnQABEpzb25zcQB+AAtXFs4DdAAJbWF4TGVuZ3Roc3EAfgALWTdMm3QACUZPUkJJRERFTnNxAH4AC4P2Vip0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAteJfuBdAACZXFzcQB+AAuowUzpdAAZY3JlYXRlQmFkUmVzdWx0JGRlZmF1bHQkMnNxAH4ACxWjzbt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAs2A7j1dAANSUZfTk9ORV9NQVRDSHNxAH4ACzwOs2V0AA1BQ0NFUFRfUkFOR0VTc3EAfgAL9yllvXQACU5vQ29udGVudHNxAH4AC0EvJ6p0ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgALbsv8D3QAEVhfRk9SV0FSREVEX1BST1RPc3EAfgALKS3Em3QAC3RvbGVyYW50WG1sc3EAfgALEVMEW3QADE1VTFRJX1NUQVRVU3NxAH4AC/ampUx0AAIjI3NxAH4AC5mJnp90AAhmaW5hbGl6ZXNxAH4AC7jpmmJ0ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgALM13m+HQADnByb2R1Y3RFbGVtZW50c3EAfgALwgTL5HQACGhhc2hDb2Rlc3EAfgALzYK1tnQABlN0YXR1c3NxAH4AC0TGek10AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+Ak14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABBjb250cm9sbGVycy5UZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AmUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Ak1MAAlpbmhlcml0ZWRxAH4CTUwAB3BhcmVudHNxAH4CTXhxAH4CbHNxAH4CZQF1cQB+AkgAAAAAcHNxAH4CZQF1cQB+AkgAAAAAcHNxAH4CZQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Amt0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKEdAADYXBpc3EAfgKEdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AoVzcQB+Anh0AAlSZW5kZXJpbmdxAH4CfnNxAH4CeHQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+An5zcQB+Anh0ABBBY2NlcHRFeHRyYWN0b3JzcQB+An5zcQB+Anh0AAxDb250ZW50VHlwZXNzcQB+AnxzcQB+An91cQB+AoIAAAAEc3EAfgKEdAAEcGxheXNxAH4ChHEAfgKJc3EAfgKEdAAEaHR0cHEAfgKNc3EAfgJ4dAALSGVhZGVyTmFtZXNxAH4ClnNxAH4CeHQABlN0YXR1c3EAfgKWc3EAfgJ4dAAMSHR0cFByb3RvY29scQB+ApZzcQB+Anh0AAtCb2R5UGFyc2Vyc3EAfgJ+c3EAfgJ4dAAHUmVzdWx0c3EAfgJ+c3EAfgJ4dAAGT2JqZWN0c3EAfgJ8c3EAfgJ/dXEAfgKCAAAAA3NxAH4ChHQABGphdmFzcQB+AoR0AARsYW5ncQB+Ao1zcQB+Anh0AANBbnlzcQB+AnxzcQB+An91cQB+AoIAAAACc3EAfgKEdAAFc2NhbGFxAH4CjXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB7yToWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRoXLshTGJHYyz4IZqaTPITz2wOtw==
+C:\git\Quizzer\app\ErrorHandler.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAm3Sf7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN1SSOh0AA1vblNlcnZlckVycm9yc3EAfgAMfMYH2nQABm5vdGlmeXNxAH4ADJAYRtp0ABBvbkRldlNlcnZlckVycm9yc3EAfgAMVwYounQABHdhaXRzcQB+AAz0PhU7dAANJGFzSW5zdGFuY2VPZnNxAH4ADHNkDzN0ABFvblByb2RTZXJ2ZXJFcnJvcnNxAH4ADLCvFlV0AAxFcnJvckhhbmRsZXJzcQB+AAwZCSqsdAAGZXF1YWxzc3EAfgAMxXr7F3QADGFzSW5zdGFuY2VPZnNxAH4ADElh4AV0AAxzeW5jaHJvbml6ZWRzcQB+AAwGq0HtdAANJGlzSW5zdGFuY2VPZnNxAH4ADOrCmL90AA5sb2dTZXJ2ZXJFcnJvcnNxAH4ADAalIG50AAlub3RpZnlBbGxzcQB+AAyxPfBcdAAMaXNJbnN0YW5jZU9mc3EAfgAMphs6MnQABjxpbml0PnNxAH4ADMoXpi90AAI9PXNxAH4ADFFtNLh0AAVjbG9uZXNxAH4ADA7ICwN0AAtvbkZvcmJpZGRlbnNxAH4ADEh6fOt0ABJvbk90aGVyQ2xpZW50RXJyb3JzcQB+AAxxwqXFdAAXb25DbGllbnRFcnJvciRkZWZhdWx0JDNzcQB+AAzx8TSPdAAMb25CYWRSZXF1ZXN0c3EAfgAM8xTWXnQADW9uQ2xpZW50RXJyb3JzcQB+AAx4SuAgdAAIdG9TdHJpbmdzcQB+AAw5ti/DdAACIT1zcQB+AAxEy87VdAAIZ2V0Q2xhc3NzcQB+AAyp61LkdAAKb25Ob3RGb3VuZHNxAH4ADAyu6+90AAJuZXNxAH4ADBiUk4N0AAJlcXNxAH4ADO6ALjd0AAIjI3NxAH4ADPC81pV0AAhmaW5hbGl6ZXNxAH4ADAkZKxZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgB0c3EAfgBtAXVxAH4AUAAAAABwc3EAfgBtAXVxAH4AUAAAAABwc3EAfgBtAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ac3QAF0RlZmF1bHRIdHRwRXJyb3JIYW5kbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCMdAADYXBpc3EAfgCMdAAEaHR0cHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgCAdAAQSHR0cEVycm9ySGFuZGxlcnEAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJVzcQB+AIB0AANBbnlzcQB+AIRzcQB+AId1cQB+AIoAAAACc3EAfgCMdAAFc2NhbGFxAH4AlXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB7yToWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQbV34Xw5Bt1wdL3ShqahUr4ED/PA==
+C:\git\Quizzer\app\models\Vocabulary.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAVcH+fAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNV+5yh0AAZub3RpZnlzcQB+AAzqFXXDdAAOc291cmNlTGFuZ3VhZ2VzcQB+AAxPYnvzdAAEd2FpdHNxAH4ADFNTD/10AA5jb3B5JGRlZmF1bHQkMnNxAH4ADPYdGqp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMx8vBy3QADHByb2R1Y3RBcml0eXNxAH4ADPJF3/50AAZlcXVhbHNzcQB+AAwiTpLYdAAMYXNJbnN0YW5jZU9mc3EAfgAMAldcfXQADHN5bmNocm9uaXplZHNxAH4ADJJ6Te50AA0kaXNJbnN0YW5jZU9mc3EAfgAMU5h2vHQACGNhbkVxdWFsc3EAfgAMkzLlzHQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMJJL0KnQADXByb2R1Y3RQcmVmaXhzcQB+AAxYkSIIdAAJbm90aWZ5QWxsc3EAfgAMV7NkEXQADGlzSW5zdGFuY2VPZnNxAH4ADKeZldt0AAY8aW5pdD5zcQB+AAyyqp9udAAKVm9jYWJ1bGFyeXNxAH4ADPp3ggV0AAI9PXNxAH4ADPYgIi90AAVjbG9uZXNxAH4ADAXdwdp0AA50YXJnZXRMYW5ndWFnZXNxAH4ADNGrQm10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADM9IWsN0AARjb3B5c3EAfgAMHql40HQACHRvU3RyaW5nc3EAfgAMhxdqmnQAAiE9c3EAfgAM01m1dHQACGdldENsYXNzc3EAfgAMQzI2ynQADmNvcHkkZGVmYXVsdCQxc3EAfgAMdt7DsHQAC3RyYW5zbGF0aW9uc3EAfgAMs5R8O3QAAm5lc3EAfgAMmB9Pg3QABHdvcmRzcQB+AAz2pogQdAACZXFzcQB+AAyeA2crdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMzlHc8XQAAiMjc3EAfgAM+gFaMnQACGZpbmFsaXplc3EAfgAMZdbTK3QADnByb2R1Y3RFbGVtZW50c3EAfgAM58Pt33QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEW1vZGVscy5Wb2NhYnVsYXJ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfHNxAH4AdQF1cQB+AFgAAAAAcHNxAH4AdQF1cQB+AFgAAAAAcHNxAH4AdQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AIhxAH4Ai3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAACaW9xAH4AmXNxAH4AiHQAB1Byb2R1Y3RxAH4AjnNxAH4AiHQABkVxdWFsc3EAfgCOc3EAfgCIdAAGT2JqZWN0c3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCfc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgCIdAADQW55cQB+AI5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGY7hTs45Qs5WyHGLiMcoSLWqLQk
+C:\git\Quizzer\app\services\VocabularyService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwovznAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK8RIDl0AAZub3RpZnlzcQB+AAyDkxuBdAAGdmVyaWZ5c3EAfgAMPAt+eXQABHdhaXRzcQB+AAw2B+rFdAANJGFzSW5zdGFuY2VPZnNxAH4ADFSgIap0AAZlcXVhbHNzcQB+AAwFJcWWdAANYWxsVm9jYWJ1bGFyeXNxAH4ADCB715V0AAxhc0luc3RhbmNlT2ZzcQB+AAy235kYdAAUZmluZFJhbmRvbVZvY2FidWxhcnlzcQB+AAzZ8+79dAAMc3luY2hyb25pemVkc3EAfgAMu8GT+3QADSRpc0luc3RhbmNlT2ZzcQB+AAxL35bXdAANYWRkVm9jYWJ1bGFyeXNxAH4ADKgu1SN0AAlub3RpZnlBbGxzcQB+AAwsiCYWdAAMaXNJbnN0YW5jZU9mc3EAfgAMEo5PzXQABjxpbml0PnNxAH4ADA+D/aN0AAI9PXNxAH4ADAUgsuR0AAVjbG9uZXNxAH4ADM6b+v10AAh0b1N0cmluZ3NxAH4ADIYb8qZ0AAIhPXNxAH4ADNuqhpp0AAhnZXRDbGFzc3NxAH4ADLN45E10ABFWb2NhYnVsYXJ5U2VydmljZXNxAH4ADCqN1YN0AAJuZXNxAH4ADGL8Y7t0AAJlcXNxAH4ADMP63lV0AAIjI3NxAH4ADE+lamp0AAhmaW5hbGl6ZXNxAH4ADOqx3Xt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0AAIoKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAlTaW5nbGV0b25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWphdmF4c3EAfgBudAAGaW5qZWN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AG9zcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABpzZXJ2aWNlcy5Wb2NhYnVsYXJ5U2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Agnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AYnNxAH4AgQBwc3EAfgCGc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AY3NxAH4AgQBwc3EAfgCGdXEAfgBEAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgBEAAAAAHNxAH4AgQBwc3EAfgCGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AGB0AAZPYmplY3RzcQB+AGZzcQB+AGl1cQB+AGwAAAADc3EAfgBudAAEamF2YXNxAH4AbnQABGxhbmdxAH4AdXNxAH4AYHQAA0FueXNxAH4AZnNxAH4AaXVxAH4AbAAAAAJzcQB+AG50AAVzY2FsYXEAfgB1dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIc2VydmljZXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB7yToWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSVG6lq2cnsd9hoUr50DzMP1+4D5A==
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpMiLfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM2T5lJ0AAZub3RpZnlzcQB+AAzZq6hRdAALUmV2ZXJzZVRlc3RzcQB+AAzgl1XNdAAOX2RlZmF1bHRQcmVmaXhzcQB+AAwMd9QvdAAEd2FpdHNxAH4ADPl1CvB0AA1SZXZlcnNlSW1wb3J0c3EAfgAMdRYms3QADSRhc0luc3RhbmNlT2ZzcQB+AAykPguBdAAKdGVzdEFjdGlvbnNxAH4ADP8gXd90AAZlcXVhbHNzcQB+AAxPBjaFdAAMYXNJbnN0YW5jZU9mc3EAfgAMfVSsPnQADHN5bmNocm9uaXplZHNxAH4ADKnu8Qx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMPCxl3HQACW5vdGlmeUFsbHNxAH4ADDsMLDR0AAxpc0luc3RhbmNlT2ZzcQB+AAydj4kqdAAKaW1wb3J0V29yZHNxAH4ADM65o8l0AAY8aW5pdD5zcQB+AAyjXudSdAACPT1zcQB+AAwKTtbQdAAFY2xvbmVzcQB+AAz4JWh0dAAMUmV2ZXJzZVF1aXp6c3EAfgAMZTi+inQACHRvU3RyaW5nc3EAfgAM3dqbnnQABXF1aXp6c3EAfgAMatUdjXQAAiE9c3EAfgAM6Lx6+HQACGdldENsYXNzc3EAfgAMIVXXUXQAAm5lc3EAfgAMO80IMXQAAmVxc3EAfgAM6LY7h3QAAiMjc3EAfgAMHpeLWXQACGZpbmFsaXplc3EAfgAMUpanXXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUltcG9ydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJFzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAAiY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlVGVzdHVxAH4AXQAAAABxAH4AYXVxAH4AYwAAAABzcQB+AGUAcHNxAH4AanEAfgBvc3EAfgBlAHBzcQB+AGpzcQB+AHJzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4AfAAAAAJzcQB+AH5xAH4AgXNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4AjXNxAH4AinEAfgCPcQB+AJFzcQB+AH5xAH4Ak3NxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIpxAH4AmHEAfgCRc3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHQAI2NvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZVF1aXp6dXEAfgBdAAAAAHEAfgBhdXEAfgBjAAAAAHNxAH4AZQBwc3EAfgBqcQB+AG9zcQB+AGUAcHNxAH4AanNxAH4AcnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgB8AAAAAnNxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCNc3EAfgCKcQB+AI9xAH4AkXNxAH4AfnEAfgCTc3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinEAfgCYcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABZjb250cm9sbGVycy5qYXZhc2NyaXB0c3EAfgDZdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB7yToWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRzTI+7K1jcMDeATNYU6KLY0jIOJQ==
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD8MOwNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAsiHtF0AAZub3RpZnlzcQB+AAz5/o8hdAALUmV2ZXJzZVRlc3RzcQB+AAwq7XO4dAAOX2RlZmF1bHRQcmVmaXhzcQB+AAyEPIc+dAAEd2FpdHNxAH4ADHYecK50AA1SZXZlcnNlSW1wb3J0c3EAfgAMs6er6HQADSRhc0luc3RhbmNlT2ZzcQB+AAxEdu8ydAAKdGVzdEFjdGlvbnNxAH4ADJzmhLx0AAZlcXVhbHNzcQB+AAxDEAyQdAAMYXNJbnN0YW5jZU9mc3EAfgAMRdUTSnQADHN5bmNocm9uaXplZHNxAH4ADKwBYoB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMfp18InQACW5vdGlmeUFsbHNxAH4ADE17eJZ0AAxpc0luc3RhbmNlT2ZzcQB+AAyg/cLNdAAKaW1wb3J0V29yZHNxAH4ADM989LR0AAY8aW5pdD5zcQB+AAxZq3RidAACPT1zcQB+AAwTlzFidAAFY2xvbmVzcQB+AAwjGOHKdAAMUmV2ZXJzZVF1aXp6c3EAfgAMRBrXg3QACHRvU3RyaW5nc3EAfgAMEfUCkXQABXF1aXp6c3EAfgAM6t9T83QAAiE9c3EAfgAMCZfoHnQACGdldENsYXNzc3EAfgAM5MAcmHQAAm5lc3EAfgAMIFqBmHQAAmVxc3EAfgAMhzuPt3QAAiMjc3EAfgAMJR23HHQACGZpbmFsaXplc3EAfgAMJ/lEgnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGWNvbnRyb2xsZXJzLlJldmVyc2VJbXBvcnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUAcHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG5zcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AinQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCRc3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHQAF2NvbnRyb2xsZXJzLlJldmVyc2VUZXN0dXEAfgBdAAAAAHEAfgBhdXEAfgBjAAAAAHNxAH4AZQBwc3EAfgBqcQB+AG9zcQB+AGUAcHNxAH4AanNxAH4AcnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgB8AAAAAnNxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCNc3EAfgCKcQB+AI9xAH4AkXNxAH4AfnEAfgCTc3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinEAfgCYcQB+AJFzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAAYY29udHJvbGxlcnMuUmV2ZXJzZVF1aXp6dXEAfgBdAAAAAHEAfgBhdXEAfgBjAAAAAHNxAH4AZQBwc3EAfgBqcQB+AG9zcQB+AGUAcHNxAH4AanNxAH4AcnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgB8AAAAAnNxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCNc3EAfgCKcQB+AI9xAH4AkXNxAH4AfnEAfgCTc3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinEAfgCYcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF00TS17IOcBjd7phz3cYB6CSWb4
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRjubfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDWEMsN0AAZub3RpZnlzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMfmE4eHQACW5vdGlmeUFsbHNxAH4ADMfImzt0AAVRdWl6enNxAH4ADNGfIeR0AAY8aW5pdD5zcQB+AAzL5HWVdAAGSW1wb3J0c3EAfgAMpJUNcHQABFRlc3RzcQB+AAxVqs74dAAIdG9TdHJpbmdzcQB+AAwhC3xwdAAIZ2V0Q2xhc3NzcQB+AAwe5+o2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29udHJvbGxlcnMucm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBLeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBKAHBzcQB+AE9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AMUwACWluaGVyaXRlZHEAfgAxTAAHcGFyZW50c3EAfgAxeHEAfgBTc3EAfgBKAHBzcQB+AE91cQB+ACwAAAAAc3EAfgBKAHBzcQB+AE91cQB+ACwAAAAAc3EAfgBKAHBzcQB+AE91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AG90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHBzcQB+AC5xAH4AO3EAfgA9cQB+AD9xAH4AQHEAfgBCfnEAfgBDdAAGTW9kdWxldXEAfgBHAAAAAHNxAH4ASgBwc3EAfgBPcQB+AFRzcQB+AEoAcHNxAH4AT3NxAH4AV3NxAH4ASgBwc3EAfgBPdXEAfgAsAAAAAHNxAH4ASgBwc3EAfgBPdXEAfgAsAAAAAHNxAH4ASgBwc3EAfgBPdXEAfgBhAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQe8k6FnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AChDOlxnaXRcUXVpenplclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsJwWe+n4OVm3h29SCkYfwWjGjEw=
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC2VeS+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE2B+bZ0AAZub3RpZnlzcQB+AAxlm95SdAAKYmFkUmVxdWVzdHNxAH4ADICYB9J0AAR3YWl0c3EAfgAMcvaVfXQADSRhc0luc3RhbmNlT2ZzcQB+AAxJNkt3dAAGcm91dGVzc3EAfgAMnnvHSXQADWNyZWF0ZUludm9rZXJzcQB+AAw6Cm0edAAGZXF1YWxzc3EAfgAMQ39gK3QAJGNvbnRyb2xsZXJzX0ltcG9ydF9pbXBvcnRXb3JkMV9yb3V0ZXNxAH4ADFTH3+90AAZwcmVmaXhzcQB+AAzusQbedAAMYXNJbnN0YW5jZU9mc3EAfgAMAk/zSnQADWRvY3VtZW50YXRpb25zcQB+AAzBWfx3dAAgY29udHJvbGxlcnNfUXVpenpfcXVpenoyX2ludm9rZXJzcQB+AAzIAcDgdAAMc3luY2hyb25pemVkc3EAfgAM2lG3hXQADSRpc0luc3RhbmNlT2ZzcQB+AAxDqHCvdAAKaGFuZGxlckZvcnNxAH4ADPFNUDJ0AAlub3RpZnlBbGxzcQB+AAzIZoTUdAAMaXNJbnN0YW5jZU9mc3EAfgAMzktFqHQADGVycm9ySGFuZGxlcnNxAH4ADGPlzUt0ACJjb250cm9sbGVyc19UZXN0X3Rlc3RBY3Rpb24wX3JvdXRlc3EAfgAMOyF0+HQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADPPQfnx0ACRjb250cm9sbGVyc19UZXN0X3Rlc3RBY3Rpb24wX2ludm9rZXJzcQB+AAwx3cesdAAFY2xvbmVzcQB+AAySJupEdAAGUm91dGVzc3EAfgAMfNz+y3QAJmNvbnRyb2xsZXJzX0ltcG9ydF9pbXBvcnRXb3JkMV9pbnZva2Vyc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADFbr0JB0AB5jb250cm9sbGVyc19RdWl6el9xdWl6ejJfcm91dGVzcQB+AAwyYEmkdAACbmVzcQB+AAwFcfEsdAAKd2l0aFByZWZpeHNxAH4ADJMuPrJ0AARjYWxsc3EAfgAM91S/fnQAAmVxc3EAfgAMxe5FOHQADWRlZmF1bHRQcmVmaXhzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AH14cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHwAcHNxAH4AgXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIVzcQB+AHwAcHNxAH4AgXVxAH4AXgAAAABzcQB+AHwAcHNxAH4AgXVxAH4AXgAAAABzcQB+AHwAcHNxAH4AgXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhHQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AoXQABGNvcmVzcQB+AKF0AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKJzcQB+AJV0AAZSb3V0ZXJzcQB+AJlzcQB+AJx1cQB+AJ8AAAAEc3EAfgChdAAEcGxheXNxAH4AoXQAA2FwaXNxAH4AoXQAB3JvdXRpbmdxAH4AqnNxAH4AlXQABk9iamVjdHNxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKF0AARqYXZhc3EAfgChdAAEbGFuZ3EAfgCqc3EAfgCVdAADQW55c3EAfgCZc3EAfgCcdXEAfgCfAAAAAnNxAH4AoXQABXNjYWxhcQB+AKp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB7yToWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSmDHbTSN6Jr3NOrxm333VwbamkGA==
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcdvxBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN0jWmN0AAZub3RpZnlzcQB+AAw6mfPpdAAMYnlOYW1lUHJlZml4c3EAfgAMGqAuKnQABHdhaXRzcQB+AAwiihQedAANJGFzSW5zdGFuY2VPZnNxAH4ADGlC0gh0AAZlcXVhbHNzcQB+AAxzjiBXdAAGcHJlZml4c3EAfgAMoe4en3QADGFzSW5zdGFuY2VPZnNxAH4ADLjZuch0AAxSb3V0ZXNQcmVmaXhzcQB+AAzBVSPudAAMc3luY2hyb25pemVkc3EAfgAM3PW0o3QADSRpc0luc3RhbmNlT2ZzcQB+AAxQkfPHdAAHX3ByZWZpeHNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBfAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGZzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAoQzpcZ2l0XFF1aXp6ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGCSf2ExyYnsXKw+ho0e9AbA4IXa
+external apis:
+0 items
+source infos:
+12 items
+C:\git\Quizzer\app\binders\PathBinders.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\controllers\Import.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\controllers\Quizz.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\controllers\Test.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\ErrorHandler.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\models\Vocabulary.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\app\services\VocabularyService.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\target\scala-2.11\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\target\scala-2.11\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+C:\git\Quizzer\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHm2F911cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHrxfyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHsIZhR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHuN/PZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHuOkhJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHupYpl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHupZW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvJOhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKEM6XGdpdFxRdWl6emVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

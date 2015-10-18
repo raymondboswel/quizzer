@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\git\Quizzer\conf\application.conf,C:\git\Quizzer\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\git\Quizzer\conf\logback.xml,C:\git\Quizzer\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\git\Quizzer\conf\routes,C:\git\Quizzer\target\scala-2.11\classes\routes)
