@@ -1,3 +1,5 @@
 GET         /test                                                       controllers.Test.testAction
 PUT         /import/word/:sourceLang/:word/:targetLang/:translation     controllers.Import.importWord(sourceLang: play.api.i18n.Lang, word: String, targetLang: play.api.i18n.Lang, translation: String)
 GET         /quizz/:sourceLang/:targetLang                                                      controllers.Quizz.quizz(sourceLang: play.api.i18n.Lang, targetLang: play.api.i18n.Lang)
+GET         /quizz/:sourceLang                                          controllers.Quizz.quizz(sourceLang: play.api.i18n.Lang, targetLang: play.api.i18n.Lang)
+POST        /quizz/:sourceLang/check/:word                              controllers.Quizz.check(sourceLang: play.api.i18n.Lang, word, targetLang: play.api.i18n.Lang, translation)
